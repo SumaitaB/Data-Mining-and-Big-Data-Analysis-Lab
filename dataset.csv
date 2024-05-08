@@ -1,0 +1,21 @@
+Customer ID,Customer Age,Customer Occupation,Product ID,Product Type,Product Price,Delivery Location,Transaction Type,Customer Monthly Expanse,Customer Monthly Purchased Items,Product Reviews,Gender
+100,18,Student,100,Book,300,Uttara,Online,1000,3,Good,Male
+101,40,Teacher,1009,Computer,80000,Savar,Cash on delivery,90000,4,Good,Female
+102,16,Student,2003,Pen,50,Mirpur,Online,500,7,Good,Male
+103,52,Businessman,7008,Table,1000,Dinajpur,Online,3000,8,Bad,Female
+300,56,Housewife ,1101,Nonstick cookeries,2500,Uttara,Cash on delivery,2500,1,Good,Female
+301,26,Student,1200,Fictional books,400,Sherpur,Online,900,2,Good,Female
+302,19,Student,980,Headphone,1000,Mirpur,Cash on delivery,1000,2,Good,Male
+303,21,Student,450,Jwellery,500,Badda,Online,500,3,Bad,Female
+200,25,Student,2025,Watch,1200,Mirpur,Online,1500,2,Bad,Male
+201,30,Housewife ,2098,BedSheet,700,Ishwardi,Online,1700,3,Neutral,Female
+202,19,Student,2058,Bag,600,Savar,Cash on delivery,1000,2,Bad,Male
+203,58,Govt. Employee,2033,Mobile,25000,Rajshahi,Online,26700,2,Good,Female
+500,19,Student,2005,Earphone,320,Dhanmondi,Cash on delivery,2000,4,Good,Female
+501,45,Service Holder,1001,Wallet,1000,Lalmatia,Cash on delivery,5000,3,Neutral,Male
+502,50,Businessman,3011,Watch,5000,Uttara,Online,10000,4,Good,Male
+503,25,Service Holder,5001,Perfume,3000,Gulshan,Online,5000,3,Neutral,Female
+400,33,Govt Job,1009,Computer,75000,Badda,Cash on delivery,80000,3,Good,Male
+401,21,Student,1001,Exercise Book,80,Uttara,Online,1000,5,Good,Female
+402,39,Teacher,1010,Tablet PC,20000,Savar,Online,28000,4,Good,Male
+403,45,Businessman,7009,Chair,5000,Mirpur,Online,12000,4,Good,Male

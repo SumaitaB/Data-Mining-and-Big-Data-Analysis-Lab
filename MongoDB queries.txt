@@ -1,0 +1,20 @@
+{
+  "_id": {
+    "$oid": "66309def546d732c17abfe43"
+  },
+  "fruits": [
+    "banana",
+    "mango",
+    "apple",
+    "grape"
+  ],
+  "snacks": "sandwitch",
+  "beverage": "Mojo",
+  "main_dish": "Kacchi"
+}
+
+"Studname": "Eva",
+  "Dept": "CSE",
+  "Semester": "4-2",
+  "Year": "2018-2019",
+  "CGPA": "3.75"
