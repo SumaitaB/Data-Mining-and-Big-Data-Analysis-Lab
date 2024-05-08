@@ -1,0 +1,165 @@
+:Base predict.hlp
+:Title NeuralWorks Predict Help
+1 NeuralWorks Predict Help
+2 About Predict Help
+3 Legal Information=Legal_Information
+3 Using Help=IDH_CONTENTS
+3 Contacting NeuralWare=Contacting_NeuralWare
+2 Introduction
+3 Introduction=Introduction
+3 The Scope of Neural Computing=The_Scope_of_Neural_Computing
+3 Building a Neural Network Model=Building_a_Neural_Net_Model
+3 Summary of Predict Features=Summary_of_Features
+3 Technical References=References
+2 Tutorials
+3 Overview of Tutorials=Tutorial
+3 The Microsoft Excel Interface=Interacting_with_Microsoft_Excel
+3 Tutorial 1=Tutorial_1
+3 Tutorial 2=Tutorial_2
+3 Tutorial 3=Tutorial_3
+2 The Predict Menu
+3 The Predict Menu=Predict_Menu
+3 New=MNU_New
+3 Open=MNU_Open
+3 Close=MNU_Close
+3 Save=MNU_Save
+3 Save As=MNU_Save_As
+3 Change=MNU_Edit
+3 Run=MNU_Run
+3 Test=MNU_Test
+3 Case Based Reasoning=MNU_Accessories_CBR_Net
+3 FlashCode=MNU_FlashCode
+3 Help=MNU_Help
+3 Preferences=MNU_Preferences
+3 About=MNU_About_Predict
+3 Most Recently Used Models=MNU_Most_Recent_Projects
+2 Predict Preferences
+3 Predict Preferences=Predict_Preferences
+3 General Preferences=General_Preferences
+3 Directories Preferences=Directories_Preferences
+3 Models Preferences=Models_Preferences
+3 Excel Preferences=Excel_Preferences
+2 Building a Predict Model
+3 Building a Predict Model=Using_the_Build_Wizard
+3 The New Model Dialog Box=New_Model_Dialog_Box
+3 Using the  Model Building Wizard=Using_the_Wizard
+3 The MLP Model Building Wizard
+4 Multi-Layer Perceptron Models=Multi_Layer_Perceptron_Models
+4 Model Names=MLP_Model_Names
+4 Input Training Data=MLP_Input_Data
+4 Output Training Data=MLP_Output_Training_Data
+4 Data Characteristics=MLP_Training_Data_Characteristics
+4 Variable Selection and  Network Parameters=MLP_Network_Training
+4 Reviewing Parameters and Training the Model=Training_an_MLP_Network
+3 Bypassing the MLP Wizard
+4 Bypassing the MLP Wizard=Bypassing_the_MLP_Wizard
+3 Saving and Training the MLP Model
+4 Saving the Model=Saving_the_Model
+4 Training Statistics=Training_Statistics
+3 Self-Organizing Map Models
+4 Self-Organizing Map Models=Self_Organizing_Map_Models
+3 The SOM Model Building Wizard
+4 Model Names=SOM_Model_Names
+4 Input Training Data=SOM_Input_Training_Data
+4 Map Parameters=SOM_Map_Size
+4 Reviewing Parameters and Training the Model=Training_a_SOM_Model
+3 Bypassing the SOM Wizard
+4 Bypassing the SOM Wizard=Bypassing_the_SOM_Wizard
+3 Saving and Training the SOM Model
+4 Saving and Training the SOM Model=Saving_the_SOM_Model
+2 Testing a Predict Model
+3 Testing a Predict Model=Testing_the_Model
+3 Specifying Data Sets for Testing=Define_What_to_Test_Dialog
+3 Specifying Test Output=Testing_Advanced
+3 Interpreting Test Results=Test_Results_Interpreting
+2 Changing a Predict Model
+3 Changing a Predict Model=Changing_a_Model
+3 Changing an MLP Model
+4 Changing an MLP Model=Edit_the_Network_Dialog
+4 Protecting an MLP Model=Protection_Levels
+3 Changing a SOM Model
+4 Changing a SOM Model=Changing_a_SOM_Model
+2 Predict Model Parameters
+3 Predict Model Parameters=Editing_the_Network
+3 MLP Model Parameters
+4 MLP Model Parameters=MLP_Model_Parameters
+4 General
+5 General=MLP_Model_Parameters_General
+4 Data Sets
+5 Data Sets=Train_and_Test_Set_Selection_Dialog
+5 Validation Data=Validation_Data
+5 Modeling Data=Modeling_Data
+4 Transforms
+5 Transforms=Data_Analysis_and_Transformation_Dialog
+5 The Data Analysis Table=The_Data_Analysis_Table
+5 Transform Dialog Boxes=Transform_Dialogs
+5 Read or Write Variable Selection Flags=DA_VS_Flags_Button
+5 Field Parameters=Edit_Field_Parameters_Dialog
+5 Field Default Parameters=Edit_Local_Field_Parameters_Dialog
+5 Additional Field Parameters=Expert_Level_Field_Parameters_Dialog
+4 Variables
+5 Variables=Input_Variable_Selection_Dialog
+5 Cascaded Variable Selection=Input_Variable_Selection_Cascade_Variable_Selection
+4 Network
+5 Network=Network_Parameters_Dialog
+4 Learning
+5 Learning=Learning_Parameters_Dialog
+4 Neuro-Dynamics
+5 Neuro-Dynamics=Neuro_Dynamics_Dialog
+4 Heuristics
+5 Heuristics=Training_Heuristics_Dialog
+4 Evaluation
+5 Evaluation=Evaluation_Parameters_Dialog
+3 SOM Model Parameters
+4 SOM Model Parameters=SOM_Model_Parameters
+4 Map Parameters=SOM_Map_Parameters
+4 Learning Parameters=SOM_Learning_Parameters
+4 Convergence Parameters=SOM_Convergence_Parameters
+2 Updating a Predict Model
+3 Updating a Predict Model=Updating_a_Model
+2 Running a Predict Model
+3 Running a Predict Model=Running_the_Model
+3 Running an MLP Model
+4 Running an MLP Model=Running_an_MLP_Model
+4 Using Predict With Other Applications=Using_Predict_With_Other_Neural_Nets
+4 Sensitivity Analysis=Sensitivity_Analysis
+4 Explain Model Output=Explain_Module
+3 Running a SOM Model
+4 Running a SOM Model=Running_a_SOM_Model
+2 Case Based Reasoning
+3 Case Based Reasoning=Case_Based_Reasoning_Network
+2 Deploying a Predict Model
+3 Deploying a Predict Model=Deploying_the_Model
+3 Predict Macro Functions for Excel=Predict_Excel_Run_time_Interface
+3 Using Predict Models with Visual Basic=Using_Predict_Models_with_Visual_Basic
+3 Predict FlashCode=FlashCode_Dialog
+3 FlashCode Test Environments=FlashCode_TestEnv
+3 FlashCode Programming Interface=FlashCode_Programming_Interface
+3 Additional Predict Development and Deployment Options=Additional_Predict_Development_and_Deployment_Options
+2 Command Line Interface Reference
+3 Command Line Interface Reference=Predict_Command_Line_Reference
+3 Command Line Interface Tutorial=Command_Line_Tutorial
+3 Main Command Menu=Main_Command_Menu
+3 Analysis Submenu=Analysis_Submenu
+3 Variable Selection Submenu=Variable_Selection_Submenu
+3 Network Submenu=Network_Submenu
+3 Global Parameters=Command_Line_Global_Parameters
+3 Analysis Parameters=Command_Line_Analysis_Parameters
+3 Variable Selection Parameters=Command_Line_Variable_Selection_Parameters
+3 MLP Network Training Parameters=Command_Line_MLP_Network_Parameters
+3 Self-Organizing Map (SOM) Model Parameters=Command_Line_SOM_Parameters
+3 Additional SOM Parameters=Command_Line_Additional_SOM_Parameters
+2 Installation and Software License Activation
+3 Installation and Software License Activation=Getting_Started
+3 System Requirements=System_Requirements
+3 Installing Predict on Windows Computers=Personal_Computer_Installation
+3 Installing Predict on Workstations=Workstation_Installation
+3 Running Predict for the First Time=Running_Predict_for_the_First_Time
+3 Predict Files=Predict_System_Files
+3 Manually Linking Predict with Microsoft Excel=Manually_Linking_Predict_with_Microsoft_Excel
+3 Removing Predict from Your Computer=Uninstalling_Predict
+2 Error Messages
+3 Error Messages=Error_Messages
+3 Excel Interface Error Messages=Excel_Version_Error_Messages
+3 Command Line Interface Error Messages=Command_Line_Version_Error_Messages
+3 General Error Messages=General_Error_Messages

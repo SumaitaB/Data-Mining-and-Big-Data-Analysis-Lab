@@ -1,0 +1,1578 @@
+00097NeuralWorks Predict.
+00098About NeuralWorks Predict
+00099Copyright(C) 2008 NeuralWare. All rights reserved.
+00100Do not show this form when Excel(R) starts
+00101Back
+00102Cancel
+00103Run Predict Demo
+00104NeuralWare Limited Use Software License Agreement
+00105Finish
+00106Help
+00107Exit Predict
+00108Network
+00109Serial Number:
+00110Next
+00111OK
+00112Predict Version:
+00113Operating System:
+00114Excel Version:
+00115Activity
+00116Save As...
+00117Building
+00118Training
+00119Square
+00120Diamond
+00121Circle
+00122Minkowski 3
+00123Minkowski 4
+00124Minkowski 5
+00125All INPUT data
+00126Building a Model
+00127Data Properties
+00128Data and Map Properties
+00129Learning
+00130for Input Fields
+00131for Output Fields
+00132INPUT cells in the first data record
+00133INPUT cells in the second data record
+00134Input Fields
+00135Variable Selection and Network Search
+00136Processing Elements
+00137Wrap
+00138Initial
+00139Final
+00140Model Name
+00141Field Names
+00142New Model
+00143Model Output
+00144Summary Information
+00145of
+00146or
+00147Start Time
+00148Ignore non-numeric data
+00149Radius
+00149Radius
+00150OUTPUT cell(s) in the FIRST data record
+00151Step
+00152Target Outputs
+00153The Model Building Wizard
+00154Tip:
+00155Decay
+00156Activity canceled by User.
+00157Processing finished. No errors occurred.
+00158The SOM model has been trained successfully.
+00159First Input Record
+00160Second Input Record
+00161All Input Data
+00162First Target Output(s)
+00163Close
+00164Train
+00165Click in the box,
+00166Click in a box,
+00167IN_
+00168OUT_
+00169Specified by User
+00170How do you intend to use this Model?
+00171To make predictions from data.
+00172To rank data.
+00173To classify data.
+00174To find and analyze clusters in data.
+00175Launch the Model Building Wizard.
+00176Use data ranges from last Model.
+00177NeuralWorks Predict License Management
+00178Version
+00179Predict requires a License Key for this computer.
+00180Welcome to the NeuralWorks Predict Model Building Wizard!
+00181This Wizard will be your guide as you build a new Model.
+00182In the next 6 dialog boxes, you will enter information about:
+00183The location and structure of data in a Worksheet.
+00184The characteristics of the data.
+00185The architecture of the Model.
+00186In every dialog box there is a Help button you can click for more information.
+00187Do not show this dialog box the next time the Wizard starts.
+00188Base Names
+00189(254 characters)
+00190Model Description
+00191What do you want to name the Model?
+00192Apply Model name to Workbook
+00193the active Workbook will be renamed
+00194Apply Model name to Worksheet
+00195the active Worksheet will be renamed
+00196What do you want to use for data Field names?
+00197Use names in this Worksheet range.
+00198then use the mouse to select the upper left cell of the range that contains Field names.
+00199Use these Base Names:
+00200Base Names are used to generate names for Fields that do not have names.
+00201Apply Name to Workbook
+00202Apply Name to Worksheet
+00203In
+00204Out
+00205Use the boxes below to specify the location of INPUT fields in the Worksheet.
+00206You need to identify:
+00207Cells that are input fields in the FIRST data record.
+00208Cells that are input fields in the SECOND data record.
+00209The range of cells that represent ALL input data.
+00210then use the mouse to select cells that contain INPUT data.
+00211Be sure you do not include any cells that contain Field Names or Output values.
+00212you only need to select the first INPUT cell in the SECOND data record
+00213you only need to click the heading cell for the first row or column of the INPUT data range
+00214All Target Output(s)
+00215Use the box below to specify the location of Target OUTPUTS in the Worksheet.
+00216Target Outputs are the output values associated with input values used to train a Model.
+00217A data record must have at least one Target Output.
+00218then use the mouse to select the cell that contains the Target Output for the FIRST data record.
+00219To specify more than one Target Output, select ALL OUTPUT cells in the first data record.
+00220The Serial Number and CPU ID shown below are needed to generate the License Key.
+00221Predict puts this information in a file named NW_License_ID.txt in the Predict installation directory.
+00222Please attach the file to an e-mail and send it to:
+00223license@neuralware.com
+00224CPU ID:
+00225How much variability, or "noise" is in the data?
+00226The amount of noise influences how Predict avoids over-fitting.
+00227Select a noise level from the list below:
+00228"Moderately noisy data" is a good choice for most kinds of data.
+00229If you have a License Key:
+00230clean data
+00231moderately noisy data
+00232noisy data
+00233very noisy data
+00234Enter the License Key and Expiration Date in the fields below.
+00235How thoroughly should Predict explore transformations of data?
+00236Predict analyzes and transforms data to find good distributions of values to use as candidates for Model input.
+00237Select a data transformation level from the list below:
+00238"Moderate data transformation" is a good choice for most Models.
+00239(leave blank if your License does not expire)
+00240scale data only
+00241superficial data transformation
+00242moderate data transformation
+00243comprehensive data transformation
+00244Or you can print the file and FAX it to:
+00245+1 412.278.6289
+00246How thoroughly should Predict search for the best Model Input variables?
+00247Input variables that do not contribute to Model performance should not be used in the final Model.
+00248Predict identifies the most influential Model variables based on transformed input values.
+00249Select how thoroughly Predict should search for the best variables from the list below:
+00250"Comprehensive variable selection" is a good choice for most Models.
+00251License Key:
+00252no variable selection
+00253superficial variable selection
+00254moderate variable selection 
+00255comprehensive variable selection
+00256exhaustive variable selection
+00257Expiration Date:
+00258Enable Cascaded Variable Selection
+00259Then click OK.
+00260How thoroughly should Predict search for the best Neural Network?
+00261Select how thoroughly Predict should look for the best Network from the list below:
+00262Prev
+00263Please review Model parameter settings before you click Train
+00264In the next 4 dialog boxes, you will enter information about:
+00265A Model is open.
+00266Do you want to close the Model and create a new one?
+00267Please be patient - Training may take a while.
+00268no network search
+00269superficial network search
+00270moderate network search
+00271comprehensive network search
+00272exhaustive network search
+00273"Comprehensive network search" is a good choice for most Applications.
+00274&Predict
+00275&New...
+00276&Open...
+00277&Close
+00278&Save
+00279Sa&ve As...
+00280&Log...
+00281Go
+00282&Run...
+00283&Test...
+00284&Edit...
+00285Apply
+00286Case &Based Reasoning...
+00287Protection
+00288F&lashCode...
+00289Write Log File
+00290Pre&ferences...
+00291&About NeuralWorks Predict
+00292&Help
+00293Chan&ge...
+00294Training Complete
+00295A Model has not been created.
+00296A Model has already been created.
+00297Include Sheet Name with Excel ranges
+00298Include Workbook Name with Excel ranges
+00299Last Model built
+00300Please contact NeuralWare Technical Support (help@neuralware.com).
+00301Please contact NeuralWare License Management (license@neuralware.com).
+00302A Workbook and a Worksheet with data must be open to build a model.
+00303A Worksheet that contains data must be open to build a model.
+00304The License Key format is not valid - a License Key has 11 characters.
+00305The Expiration Date is not valid.
+00306The License Key is not valid.
+00307License Key information could not be saved.
+00308Please enter a name for the Model.
+00309The Excel range for Field Names is not valid.
+00310The Model name is too long.
+00311Please enter Excel ranges for all data fields.
+00312The Excel range for the first input record is not valid.
+00313The Excel range for the second input record is not valid.
+00314The Excel range for outputs is not valid.
+00315The Excel ranges for the first and second input records are not consistent. 
+00316The Excel range for all input data is not consistent with input record ranges.
+00317Please enter a range for output(s).
+00318The Excel range for all input data is not valid.
+00319Please enter a range for all input data.
+00320Please enter a range for the first input record.
+00321Please enter a range for the second input record.
+00322Model name cannot contain a space if applied to Worksheet.
+00323First and second input records cannot start in same cell.
+00324There is no Model open.
+00325Please enter a range for Test data.
+00326The Excel range for Test data is not valid.
+00327Please enter a range for Test output.
+00328The Excel range for Test output is not valid.
+00329Please enter a range for input data to Run the Model.
+00330The Excel range for input data to Run the Model is not valid.
+00331Please enter a range for Model Run output.
+00332The Excel range for Model Run output is not valid.
+00333Please enter a default Input Field name.
+00334The Input Field name is too long.
+00335Please enter a default Output Field name.
+00336The Output Field name is too long.
+00337The Model description is too long.
+00338The Excel range for Field Names is not valid.
+00339A System Error occurred while creating a new Model.
+00340A System Error occurred while loading a Model.
+00341A System Error occurred while installing Predict menus.
+00342Workbook and/or Worksheet names are too long to include.
+00343No Error.
+00344Bad arguments were passed to a routine.
+00345Bad magic number in a data structure.
+00346Out of memory.
+00347Cannot lock memory.
+00348File version is incompatible with program.
+00349Parameter name does not exist.
+00350Parameter name is not in current parameter table.
+00351Parameter name is private: must reference by C-define.
+00352Bad definition.
+00353Incompatible types for getting/setting parameters.
+00354Precision was lost in  getting/setting parameter value.
+00355Cannot set a read-only parameter value.
+00356Attempt to set a value out of range.
+00357Error opening input file <@0>.
+00358Error opening output file <@0>.
+00359Argument is out of bounds.
+00360Bad memory handle.
+00361Bad memory pointer.
+00362Error <@0> reading file.
+00363Error <@0> writing file.
+00364Unknown error.
+00365Symbol could not be resolved dynamically.
+00366Error opening message file.
+00367No messages in message file.
+00368Error saving License Key information.
+00369Invalid License Key.
+00370Internal error: bad Variable Selection structure.
+00371Insufficient data for doing variable selection.
+00372No data available for doing variable selection.
+00373Variable Selection component is untrained.
+00374Illegal variable set size.
+00375Internal inconsistency in variable selection module.
+00376Variable selection has converged.
+00377Variable selection parameters cannot be accessed in a run time model.
+00378No data available for training neural net.
+00379Neural net architecture out of date.
+00380Internal error: cannot get classes from data module.
+00381Bernoulli evaluation function requires sigmoidal output.
+00382Relative entropy evaluation function requires softmax output.
+00383Relative information measure requires softmax output.
+00384Relative information measure requires one of N output.
+00385Classification rate measures require one of N output.
+00386User evaluation requested but not provided.
+00387Bad evaluation function index.
+00388User transfer function requested but not provided.
+00389No hidden transfer function specified.
+00390Bad output transfer function index.
+00391User error function requested but not provided.
+00392Bad error function index.
+00393Network has converged.
+00394The Processing Elements for a 1-dimensional SOM must be in the first dimension.
+00395Multiplier for number of sample records
+00396Minimum number of sample records
+00397Maximum number of sample records
+00398Base Name
+00399Use this Base Name:
+00400Save Model
+00401Open Model
+00402Run the Model
+00403The current Model has not been saved.
+00404The current SOM has not been saved.
+00405Click OK to continue (the Model will NOT be saved).
+00406Click OK to continue (the SOM will not be saved).
+00407Click Cancel if you want to save the Model.
+00408Click Cancel if you want to save the SOM.
+00409Building a Self-Organizing Map
+00410A Self-Organizing Map must have Processing Elements in the first dimension.
+00411The number of Processing Elements in active dimensions multiplied together cannot exceed 30000.
+00412The number of Processing Elements in Dimension 1 is not valid.
+00413The number of Processing Elements in Dimension 2 is not valid.
+00414The number of Processing Elements in Dimension 3 is not valid.
+00415The number of Processing Elements in Dimension 4 is not valid.
+00416Save FlashCode
+00417Data Ranges and Basic Parameters
+00418Summary Report
+00419Full Report
+00420The Model is Trained and Saved.
+00421data records were available for Training.
+00422No errors were detected during Training.
+00423What would you like to do?
+00424More Parameters...
+00425Change the Model
+00426Run the Model using data that Predict reserved for Testing.
+00427Run the Model using data in the Worksheet.
+00428View the results of Variable Selection.
+00429View the Transforms that Predict used.
+00430Return to Excel.
+00431Elapsed Times
+00432Creating Work File
+00433Partitioning Data
+00434Analyzing Fields
+00435Selecting Variables and Training
+00436... please be patient! This may take a while.
+00437Elapsed Time
+00438Records Processed
+00439[HH:MM:SS.ss]
+00440Record
+00441Pass
+00442Partitioning Data: Processing Record
+00443Analyzing Input Data Field
+00444Analyzing Output Data Field
+00445Creating Binary File: Processing Record
+00446Running the Model: Processing Record
+00447Range for Model Input
+00448Range for Model Output
+00449Enter the top left cell of the range where you want Model Output placed.
+00450If any cells in the range contain values, the values will be over-written WITHOUT WARNING!
+00451Set Random Seed
+00452Random Number Seed
+00453Set Seed
+00454Clear Variable Select Flags
+00455Clear V Flag only.
+00456Clear V and C Flags.
+00457Testing
+00458Records
+00459Network
+00460Output(s)
+00461Hidden Unit(s)
+00462Input(s)
+00463A Workbook and Worksheet with data must be open to Test a Model.
+00464A Worksheet that contains data must be open to Test a Model.
+00465Evaluating Model: Processing Record
+00466Evaluating Model
+00467Please select a Data Set to use to Test the Model.
+00468Please enter a range of Data to use to Test the Model.
+00469Please enter a range for Test Results.
+00470The Workbook name and/or the Worksheet name in the Model do not match the Active Workbook.
+00471What do you want Predict to do?
+00472Ignore differences
+00473Force Workbook to match Model
+00474Force Model to match Workbook
+00475Stop loading Model and return to Excel
+00476This SOM has more than 2 dimensions.
+00477Please adjust the SOM size on the SOM Parameters page.
+00478The range you specified for Variable Selection flags is not valid.
+00479Select the first row/column or the entire range to use for Model input.
+00480The new Excel range for Model inputs is not valid.
+00481The new Excel range for Model outputs is not valid.
+00482It has fewer input fields than the Model that is already saved.
+00483It has more input fields than the Model that is already saved.
+00484It has fewer output fields than the Model that is already saved.
+00485It has more output fields than the Model that is already saved.
+00486Please enter a value for Maximum Cascade Steps.
+00487Please enter a value for Minimum Change in Variables per Step.
+00488Please enter a value for Iterations per Step.
+00489Please enter a value for Percent of Population to Test.
+00490A System Error occurred when attempting to Change a Model.
+00491Please enter a value for Frequency of Average for Inclusion.
+00492Please enter a value for Maximum Generations.
+00493Please enter a value for Patience.
+00494Please enter a value for Tolerance.
+00495Test results file format is not valid.
+00496Test results file contained no data.
+00497An error occurred while opening or processing the Test results file.
+00498A Workbook and a Worksheet with data must be open to Run a Model.
+00499A Worksheet that contains data must be open to Run a Model.
+00500Preferences
+00501General
+00502Do not show About NeuralWorks Predict when Excel starts.
+00503Display progress information while building Models.
+00504Beep when operations end.
+00505Annotate Model files when saved.
+00506Number of files to keep in Most Recently Used (MRU) list [maximum of 8].
+00507The Model file in MRU list was not found - it has been removed from the list.
+00508Directories
+00509Directory for Models
+00510Directory for Data
+00511Directory for Logs
+00512Update Directory when Model saved.
+00513Update Directory when Workbook saved.
+00514Keep binary files.
+00515Browse...
+00516Models
+00517Default Wizard Behavior
+00517Default Wizard Behavior
+00518Use Wizard
+00519Show Wizard Welcome page
+00520Default Type for new Models
+00521Prediction
+00522Ranking
+00523Classification
+00524Clustering
+00525Same as last (new) Model built
+00526Aggregate Parameters
+00527From last (new) Model built
+00528From last Model opened
+00529Use specified MLP Parameters
+00530Self-Organizing Map Parameters
+00531Multi-Layer Perceptron Parameters
+00532Excel
+00533Use cell ranges from last Model.
+00534Select Model Directory
+00535Select Data Directory
+00536Select Log Directory
+00537The following Directories are not valid:
+00538Changes made to this page have not been saved.
+00539Discard
+00540Show ToolTips.
+00541Do you want to close the Model and open another one?
+00542Restore NeuralWare Defaults
+00543Clear MRU List
+00544Default Input Field Name
+00545Default Output Field Name
+00546The Base Name is used to generate names for Fields that do not have names.
+00547You must enter a value for Initial and Final Neighborhood Radius.
+00548Please enter numeric values for Initial and Final Neighborhood Radius.
+00549There must be at least 2 Processing Elements in each active SOM dimension.
+00550Cascaded Variable Selection
+00551Demonstration
+00552Convergence
+00553Maximum Cascade Steps
+00554Minimum Change in Variables Per Step
+00555Step
+00556Variable Selection Iterations Per Step
+00557Percent of Final Population to Test
+00558Frequency (percent) of Average for Inclusion
+00559Variable Selection Iteration
+00560Maximum Generations
+00561Patience
+00562Tolerance
+00563Field Parameters
+00564Field Name
+00565Default Level
+00566Field Type
+00567Skip Status
+00568Scaling Mode
+00569Set
+00570More Information...
+00571Select All
+00572Clear All
+00573Elimination Tests
+00574Transformations
+00575Target Output Levels
+00576Numeric
+00577Boolean/Logical
+00578Minimum
+00579Maximum
+00580Missing
+00581Input Transforms
+00582Output Transforms
+00583Max Real Categories
+00584Fuzzy Mesh Size
+00585Don't Care Value
+00586Canceled
+00587Active
+00588Complete
+00589Status
+00590Field Parameter Details
+00591Limits and Thresholds
+00592Extrapolation Limit %
+00593Outlier Threshold
+00594Density Criterion
+00595ID Deviation Threshold
+00596Elimination Threshold
+00597Missing Threshold
+00598NaN Threshold
+00599N/C Threshold
+00600Minimum Category Size
+00601Enumerated Threshold
+00602Score Quantization
+00603CBR Quantization
+00604Scoring
+00605Transforms Scoring Options
+00606Input Scoring Method:
+00607Output Scoring Method:
+00608Score Components
+0060910-bin Distribution
+00610Average Deviation
+00611Correlation
+00612K-S Score
+00613Score f(-x)
+00614Distribution
+00615Domains 1
+00616Function Domains
+00617Nominal Portion of Range
+00618Terminal Precision
+00619Priority
+00620linear
+00621Read/Write Variable Selection Flags/Groups
+00622Specify the upper left cell location for reading/writing.
+00623Action
+00624Select an action from the options below.
+00625Read Variable Selection Flags
+00626Write Current Variable Selection Flags
+00627Write Variable Selection Flags for Sets
+00628from
+00629to
+00630Include Group Number with Flags
+00631Range to read/write to
+00632No complete data records found in the All Input Data range.
+00633records skipped
+00634Processing CBR Network record
+00635Write
+00636Selecting Variables
+00637Insufficient data in Output column.
+00638Insufficient data in Output row.
+00639Please enter a value for this parameter.
+00640Select a Different Variable Set
+00641Enter the index of the desired variable set.
+00642Index 0 corresponds to the "best" variable set.
+00643Index of Variable Set
+00644Write Network Weights
+00645Select the top left cell which corresponds to the first row of the network weights.
+00646An abbreviated list of transforms will also be written.
+00647Write Train/Test Flags
+00648Select the top left cell which corresponds to the flag for the first input example.
+00649Flags will be written in the same relative position as outputs.
+00650Use Symbolic Equivalents for Flags
+00651Write Variable Select Table
+00652Select the top left cell for the first row of the output.
+00653Output is the same format as the Data Analysis Table on the Transforms tab.
+00654The value for this parameter must be between
+00655and
+00656Continuous Output
+00657Integer Classification
+00658String Classification
+00659Single Output Classification
+00660Please enter a range for User-Defined Set
+00661The range for User-Defined Set is not valid.
+00662The value for this parameter is out of range.
+00663Training Set
+00664Primary Working Set
+00665Test Set
+00666Secondary Working Set
+00667Validation Set
+00668User-Defined Set [ Enter Range ]
+00669Range
+00670Analysis Output
+00671Report Type
+00672Report Level
+00673Categories for Confusion Matrix
+00674Categories for Error Distribution
+00675Tolerance (% of Range) for Accuracy
+00676Confidence Level (%) for Intervals
+00677Range for Results (top left corner)
+00678Set K-S Threshold on Analysis
+00679Set Gains Table on Analysis
+00680K-S Threshold
+00681Transpose Confusion Matrix
+00682Gains Table
+00683Test Data
+00684Select the data to use to Test the Model.
+00685A separate analysis is performed for each check box you select.
+00686Select as many check boxes as you want.
+00687Highest index
+00688More Options...
+00689Enter the top left cell of the range where you want Test Results placed.
+00690Output Options
+00691Test the Model
+00692Test
+00693Train - Test - Validation Sets
+00694Data Analysis and Transformation
+00695Input Variable Selection
+00696Network Parameters
+00697Neuro-Dynamics
+00698Training Heuristics
+00699Evaluation Parameters
+00700Model Parameters
+00701Data Sets
+00702Logging...
+00703Save Template...
+00704Load Template...
+00705Set Defaults
+00706General
+00707Network Type
+00708Regularization
+00709Hidden
+00710Output
+00711Auto Tune
+00712Weight Decay
+00713Noise (Kalman)
+00714Function
+00715Evaluation
+00716MPE
+00717Direct Connections
+00718Hidden Architecture
+00719Min/Max Increment
+00720Maximum Layer Size
+00721Iterate Through Vector
+00722Variable Selection
+00723Maximum Generations
+00724Patience
+00725Quantization Levels
+00726Cross-Validation Sets
+00727Population Factor
+00728Variable Selection Model
+00729Heuristics
+00730Tolerance
+00731Net
+00732Node
+00733Maximum Networks
+00734Set Seed...
+00735Write Weights...
+00736Train/Test
+00737Partition Flags
+00738Selection Method
+00739% of All Data
+00740Validation Set
+00741Partition flags from Worksheet [ enter first cell of range ]
+00742Minimum Set Size
+00743Partitions
+00744% of Modeling Data
+00745Primary
+00746Secondary
+00747Training Set
+00748Test Set
+00749Default Granularity
+00750Duplicate Record Compression
+00751Data Smoothing
+00752Skip all records with any missing fields
+00753Write Flags...
+00754Select Sets
+00755Transforms
+00756Edit Selected Item...
+00757Analyze Field
+00758Analyze All Fields
+00759Clear Flags...
+00760Purge Transforms
+00761Select Different Variable Set...
+00762Variable Selection Flags...
+00763Write Table...
+00764Statistics
+00765Input
+00766Output
+00767Total Fields
+00768Active Fields
+00769Total Transforms
+00770Active Transforms
+00771Variables
+00772Model Type
+00773Variable Set Size
+00774Initial
+00775Global
+00776Cascaded...
+00777Convergence
+00778Tolerance per Generation
+00779Linear Variable Selection
+00780Ill Condition Threshold
+00781Mean Power Error
+00782Output
+00783Population Size
+00784Record Factor
+00785Population Size Factor
+00786Cross-Validation Sets
+00787Fitness and Selection
+00788Parent 1
+00789Parent 2
+00790Rank Bias
+00791Quantization
+00792Re-do Each Generation
+00793Reproduction
+00794Cross-over Probability
+00795Mutation Factor
+00796Elitist Factor
+00797Mutate Equal Parents
+00798Network
+00799Architecture
+00800Network:
+00801Cascaded Connections
+00802Minimum Increment
+00803Maximum Increment
+00804Randomization
+00805Multiplier
+00806Special
+00807Weight Limiting
+00808Weight Limit
+00809Reduction Factor
+00810Stochastic Gradient
+00811Weight Decay
+00812Frequency Compensation
+00813Keep Last Network
+00814Learning
+00815Adaptive Gradient
+00816Line Search Iterations
+00817Line Search Tolerance
+00818Stochastic Gradient Factor
+00819Alpha
+00820Weight Decay
+00821Learning Rate
+00822Learning Rule
+00823Auto Tune Decay
+00824Kalman
+00825Maximum Variance
+00826Noise Multiplier
+00827Noise Decay
+00828Hidden Noise
+00829Output Noise
+00830Learning Convergence
+00831All Hidden
+00832Hidden Outputs
+00833All Outputs
+00834Dynamics
+00835Hidden Layer
+00836Derivative Offset
+00837Output Layer
+00838Function
+00839Alternate with Linear
+00840Use fast Math
+00841Linear Output Compensation
+00842Hidden Candidate Pool
+00843Heuristics
+00844Outputs
+00845Minimum Trials
+00846Maximum Trials
+00847Minimum Epochs
+00848Epoch Factor
+00849Evaluation
+00850Evaluation Function
+00851Non-Standard Error
+00852Weighted Errors
+00853False Positive
+00854Equal
+00855False Negative
+00856Quantile
+00857Percent Threshold
+00858Data Chunk Factor
+00859Accuracy
+00860Accuracy Band
+00861Mean Power Error
+00862Power for Error
+00863Architecture is
+00864Multi-Layer Perceptron
+00865Self-Organizing Map
+00866Model Type
+00867Epoch
+00868Generation
+00869Fitness
+00870Continuous Transform
+00871Transform Status
+00872Scale Mode
+00873Transformation
+00874Network Targets
+00875Transform Data
+00876Effective Minimum
+00877Effective Maximum
+00878Inner Minimum
+00879Inner Maximum
+00880Inner Scale
+00881Inner Offset
+00882Outer Scale
+00883Outer Offset
+00884Zero-One Scaled Statistic
+00885Average
+00886Median
+00887Enumerated String Transform
+00888String Value
+00889Fuzzy Transform
+00890Left Transition Point
+00891Center Point
+00892Right Transition Point
+00893Enumerated Integer Transform
+00894Integer Value
+00895Logical Transform
+00896Logical Minimum
+00897Logical Maximum
+00898Mid-point Threshold
+00899Quintile Transform
+00900Transition Points for Linear Interpolation
+00901Other Transforms
+00902active - no skip
+00903user skip
+00904analysis skip
+00905variable selection skip
+00906purged skip
+00907force no skip
+00908cascade skip
+00909Best
+00910Average Square
+00911Variance
+00912Net Input
+00913Net Output
+00914PE Weights (grouped and listed by input field connections)
+00915PE Weights (for each PE in Kohonen layer)
+00916PE Winning Frequencies
+00917Information per Record
+00918Distances
+00919Specify name for a new Case Based Reasoning Network
+00920Select an existing Case Based Reasoning Network to merge with
+00921Open existing Case Based Reasoning Network
+00922You must specify at least one data set.
+00923You must specify the file name for the Case Based Reasoning model to run.
+00924A Workbook and a Worksheet with data must be open for Case Based Reasoning.
+00925A Worksheet that contains data must be open for Case Based Reasoning.
+00926Read Variable Selection Group Numbers
+00927Write Variable Selection Group Numbers
+00928Flags are by Transform
+00929The file you specified does not exist. Please enter another file name.
+00930adaptive gradient
+00931Kalman filtering
+00932sigmoid
+00933SoftMax
+00934root mean power error
+00935scaled mean power error
+00936correlation
+00937common mean correlation
+00938quantile correlation
+00939accuracy
+00940Bernoulli error
+00941relative entropy
+00942relative information
+00943classification rate
+00944average classification rate
+00945discrepancy penalized rate
+00946maximum absolute error
+00947threshold weighted accuracy
+00948all data
+00949random
+00950round robin
+00951first
+00952last
+00953manual range
+00954not validation data
+00955all primary
+00956uniform outcomes
+00957extreme outcomes
+00958all secondary
+00959not training data
+00960Multiple Regression
+00961Neural Network
+00962uniform
+00963fitness
+00964rank
+00965Gaussian
+00966Primary Network
+00967Variable Selection Network
+00968end-of-list
+00969tanh
+00970sine
+00971exhaustive data transformation
+00972I/O Field Defaults
+00973Input
+00974Output
+00975min-max range
+00976mean mid-point (zero)
+00977median mid-point (zero)
+00978Dates
+00979Dates IDs
+00980Sequence ID
+00981Almost Sequence
+00982Missing Data
+00983NaN Data
+00984N/C Data
+00985Analysis: N/C Values
+00986Analysis: Dups in Tails
+00987Analysis: All Dups
+00988Logical
+009893-state logical
+00990enumerated integers
+00991enumerated reals
+00992other
+00993log(x)
+00994log(log(x))
+00995exp(x)
+00996exp(exp(x))
+00997x^2
+00998x^4
+00999x^(1/2)
+01000x^(1/4)
+010011/x
+010021/x^2
+010031/x^4
+010041/x^(1/2)
+010051/x^(1/4)
+01006tanh(x)
+01007ln(x/(1-x))
+01008fuzzy mesh
+01009fuzzy thermometer code
+01010quintile norm
+01011Outlier detectors
+01012NaN/Missing detector
+01013N/C detector
+01014symbolic 2-state
+01015symbolic 3-state
+01016symbolic enumerated
+01017symbolic enumerated other
+01018User probability
+01019assume data is numeric
+01020uniform distribution
+01021Gaussian distribution
+01022custom distribution
+01023summary statistics
+01024full detailed analysis
+01025Hidden
+01026Output
+01027Name
+01028Transfer Function
+01029Bias
+01030Training Units (Network output converted to Target output units)
+01031Internal Units (Network output not converted)
+01032Input values are from domain (Training units)
+01033Input values are from Professional II/PLUS (Internal units)
+01034Generate Transformed Input values
+01035Generate Transformed Target values
+01036An Excel data range is not valid. Please check all ranges.
+01037Please enter a range.
+01038Please enter a number to use as the seed.
+01039Please select at least one type of field or output before Running the Model.
+01040Update the Model
+01041Usually, 'Update as Required' is the right action when Model parameters have changed.
+01042However, in some cases another action is more appropriate.
+01043Select an action from the list below:
+01044Resume after interruption
+01045Update as Required
+01046Force Neural Net re-training
+01047Force Variable Selection
+01048Force Cascaded Variable Selection
+01049Force Binary File
+01050Force Data Analysis
+01051Force Train/Test Select
+01052Force re-build of fields
+01053Start
+01054Case Based Reasoning
+01055Create Network
+01056New...
+01057Merge...
+01058Run Network
+01059Input Range
+01060Results Range
+01061Run
+01062Explain Model Output
+01063Classification Problems
+01064Decisiveness
+01065Certainty
+01066Sample Records
+01067Reserved
+01068Reserved
+01069Analyses
+01070Contribution
+01071Missing Influence
+01072Granularity
+01073Sensitivities
+01074Derivative of
+01075Calculate Individual Sensitivities
+01076Calculate Summary Sensitivity Statistics
+01077Use Training Units (sensitivities will not be comparable)
+01078with respect to
+01079Output Fields
+01080Score
+01081Single Variable
+01082Reserved
+01083Neural Network Model Protection Level
+01084Select the level of protection for this Model.
+01085no protection (default)
+01086fields cannot be modified
+01087transforms cannot be modified
+01088cascaded variable selection is locked
+01089variable selection training is locked
+01090variable selection flags are locked
+01091train / test set is locked
+01092network is locked (read only)
+01093lock CBR network
+01094permanent read-only
+01095Output File
+01096File Format
+01097PC
+01098Macintosh
+01099UNIX
+01100Code Generation
+01101Source Language
+01102ANSI C
+01103FORTRAN-77
+01104VBA
+01105Do you want to replace
+01106Input Data Format
+01107default type
+01108all longs
+01109all floats
+01110all strings
+01111Output Data Format
+01112Root Name for Functions
+01113Optional Code Generation
+01114Sensitivity Analysis
+01115CBR Network (Confidence Intervals)
+01116Explain
+01117FlashCode (tm)
+01118Reserved
+01119Reserved
+01120Click Help for more information.
+01121Whatever level is selected, you will not be able to make changes to the model at that level or below.
+01122Permanent Read-Only is irreversible.
+01123Set Inputs
+01124Set Outputs
+01125FlashCode (tm) License Agreement
+01126Applications that contain source code generated by this command
+01127 are governed by the NeuralWare Limited Use License Agreement.
+01128Please contact sales@neuralware.com for information about deployment licenses.
+01129I AGREE
+01130I DO NOT AGREE
+01131You must agree to these terms in order to generate FlashCode.
+01132Such Applications can only be run on this computer,
+01133 unless you have obtained a Deployment License from NeuralWare.
+01134 (FlashCode will be generated when you click the I AGREE button).
+01135Please enter a Name for the source code Output file.
+01136Please enter a Function Root Name.
+01137Unknown error associated with Worksheet interaction detected.
+01138Out of date Worksheet range was passed to a routine.
+01139Worksheet range passed to a routine was not valid.
+01140Internal Worksheet range is no longer valid.
+01141Operation requires an active Worksheet.
+01142Operation requires a wider range of cells than are available at the specified location.
+01143Operation requires a deeper range of cells than are available at the specified location.
+01144Operation requires more cells than can be allocated as a single range.
+01145Operation requires actions at a horizontal position outside the valid range of the Worksheet.
+01146Operation requires actions at a vertical position outside the valid range of the Worksheet.
+01147Operation cannot be performed at the location, because the model has too many input transforms.
+01148Operation cannot be performed at the location, because the model has too many active input transforms.
+01149Operation cannot be performed at the location, because the model has too many active output transforms.
+01150Model ID is not valid.
+01151Model is already open.
+01152Maximum number of models exceeded.
+01153Model has been modified and not saved.
+01154Error loading project header.
+01155Error saving project header.
+01156Cannot build model using recall only project.
+01157Internal error: no source file for renaming file.
+01158Access error renaming file.
+01159Unknown error renaming file.
+01160Model has never been saved.
+01161Trying to overwrite full project file with partial project.
+01162Cannot undo edit.
+01163No DataWizard (TM) module allocated.
+01164Input/output data overlap.
+01165Bad problem type (@0).
+01166Bad analysis level (@0).
+01167Bad train/test selection mode (@0).
+01168Bad variable selection level (@0).
+01169Bad net level (@0).
+01170Bad noise level (@0).
+01171Error setting basic defaults.
+01172No variable selection has been allocated.
+01173Variable selection out of date.
+01174No data fields have been allocated.
+01175Bad field number (@0). Field count is @1.
+01176No training file has been specified.
+01177No transforms have been created.
+01178Binary data file <@0> already exists.
+01179Error setting up the data for training.
+01180Binary data file missing or out of date.
+01181Data fields do not match neural network architecture. (@0/@1;@2/@3)
+01182Could not open model.
+01183Model has no inputs.
+01184Error reading project file.
+01185Error writing project file.
+01186Unexpected end of file.
+01187Bad number format in ASCII file.
+01188Bad request type for loading/saving file data.
+01189Binary file inconsistent with transformations.
+01190No neural net has been allocated.
+01191No data available for calculating priors.
+01192Binary file read error.
+01193Binary file write error.
+01194Cannot open binary file.
+01195Internal error: bad data pointer for binary I/O.
+01196Internal error: bad structure in Data I/O module.
+01197End of binary data file.
+01198Insufficient data to analyze.
+01199Attempt to analyze a skipped field.
+01200Field <@0> does not exist.
+01201Transform <@0> does not exist.
+01202Data analysis for current item completed early.
+01203File open when writing out current record.
+01204Too many fields for NeuralWorks Predict Demo to process.
+01205Too many examples for NeuralWorks Predict Demo to process.
+01206Bad definition trying to get/set parameters.
+01207Internal error: illegal transform code.
+01208Predict deployment engine is not initialized.
+01209Too many fields to load into memory.
+01210<@0> is not a valid reference.
+01211Singular Value Decomposition iterations out of bounds.
+01212Matrix is not positive definite.
+01213Internal bug: default parameter settings table is not complete.
+01214Softmax function requires probabilistic outputs.
+01215Data out of range of sigmoid.
+01216Cannot open log file.
+01217User interrupt.
+01218Error writing flash code.
+01219End of flash code template.
+01220Internal error: bad net handle passed to flash code module
+01221Error opening flash code template.
+01222Error opening flash code output file.
+01223Flash code template contains a line that is too long.
+01224Flash code template exceeds maximum number of section levels.
+01225Flash code template contains an unknown section.
+01226Start/end sections don't match in flash code template.
+01227Maximum number of lines exceeded for a flash code section.
+01228Flash code template contains illegal nesting of sections.
+01229Missing section in Flash code template.
+01230Unbalanced section in Flash code template.
+01231Could not find required section in Flash code template.
+01232No active input or output fields.
+01233No active input or output transformations.
+01234No output transforms to perform test analysis on.
+01235No data to analyze.
+01236Could not identify problem type for analysis.
+01237Could not create test work file.
+01238Could not open test work file.
+01239Error writing to test work file.
+01240Error reading test work file.
+01241Test work file has a bad magic number.
+01242Could not create analysis output file.
+01243Error writing to analysis file.
+01244Add-on module identifier is unknown.
+01245Add-on module is not present.
+01246Add-on module must be loaded before use.
+01247Requested function cannot be found in the add-on module.
+01248Field type (ex: string) and requested mode (ex: all floats) are incompatible.
+01249Serial number of add-on differs from serial number of main program.
+01250Sensitivity Analysis has not been opened.
+01251Sensitivity Analysis not opened for calculating statistics.
+01252Case Based Reasoning: no key has been allocated.
+01253Case Based Reasoning: internal error.
+01254The Case Based Reasoning net is out of date and needs to be rebuilt.
+01255Error opening CBR Net file <@0>.
+01256Error reading header of CBR Net file <@0>.
+01257Case Based Reasoning: duplicate key.
+01258Case Based Reasoning Network has not been opened.
+01259Case Based Reasoning: key not found.
+01260No CBR net is available. You must create one first.
+01261Explain Function: internal error.
+01262Explain Function has not been opened.
+01263Please enter a valid percentage.
+01264A probabilistic target output field is always zero.
+01265Binary file is in use or is read-only
+01266The Index you entered is too large.
+01267There are no Variable Selection flags in the range you specified.
+01268Addon: Type of executable file is unknown.
+01269Addon: Application is designed for MS-DOS 4.0.
+01270Reserved
+01271Addon: Executable file is invalid.
+01272Addon: Windows version is incompatible.
+01273Addon: Insufficient memory to start the application.
+01274Addon: Library requires separate data segments for each task.
+01275Addon: Attempt to dynamically link to a task, or a sharing or network-protection error.
+01276Addon: Path not found.
+01277Addon: File was not found.
+01278Do you want to save it?
+01279Setting parameter violates current network protection level.
+01280Invalid Command syntax.
+01281Product feature not available in this version or mode of execution.
+01282This language version of Predict is not licensed for the host machine Windows language version.
+01283The number of records is not consistent with the total number of model record flags.
+01284Logical 0..1
+01285Logical 1..0
+01286is value
+01287fuzzy left
+01288fuzzy raw
+01289fuzzy right
+01290fuzzy of value
+01291quintile norm
+01292is Not a Number
+01293is string
+01294other
+01295Field Default Parameters
+01296Input/Output Field Defaults
+01297Set Default Parameters for selected Field Type based on this Predict template.
+01298Set all Field Parameters for current field based on this Predict template.
+01299Size
+01300Self-Organizing Map Parameters
+01301Map
+01302Map Size
+01303Dimension
+01304Neighborhood
+01305Neighborhood Type
+01306Neighborhood Radius
+01307Conscience Coefficient
+01308Frequency Estimation Coefficient
+01309Training Epochs
+01310Be sure you do not include any cells that contain Field Names.
+01311The Model Building Wizard helps you create a 2-dimensional Self-Organizing Map.
+01312Please specify the number of Processing Elements for each dimension.
+01313If you expect many clusters, or if you have a large dataset, use a greater number of Processing Elements.
+01314Also, we recommend using a rectangular Map (dimension 1 elements differ from dimension 2).
+01315Processing Elements in Dimension 1
+01316Processing Elements in Dimension 2
+01317To make a Map with more dimensions, or to change other Wizard default values,
+01318click the Model Parameters button on the next page.
+01319Feature not available in Predict Demonstration product.
+01320Index of winning PE
+01321Coordinates of winning PE
+01322Distance to winning PE
+01323Distance to each PE
+01324Processing Elements in Dimension 3
+01325Processing Elements in Dimension 4
+01326Dimension 1
+01327Dimension 2
+01328Dimension 3
+01329Dimension 4
+01330Total Records
+01331Numeric Data
+01332Floats (vs. Ints)
+01333NaN or other Error
+01334String Data
+01335Embedded Spaces
+01336Dates
+01337Actual Data Minimum
+01338Actual Data Maximum
+01339Variable Selection Group
+01340Group Number
+01341Frequency
+01342Minimum Variables Required
+01343Maximum Variables Required
+01344output distribution
+01345This version of NeuralWorks Predict requires Excel 2000 or later (Excel 9.x or later).
+01346This version of NeuralWorks Predict can ONLY be used with Excel 97 (Excel 8.x).
+
+# NOTE do not change 1990, it is to be empty
+01990
+01991\n
+01992.
+01993%hs\n
+01994%ls\n
+01995%hs
+01996%ls
+01997"
+01998(reserved)
+01999(reserved)
+
+02000This product requires that the executable be owned by root and have the suid bit set, installation may not have proceeded correctly.
+02001%15hs	%12ls%hs	%4.1f	%7.4f	%7.4f	%7.4f	%7.4f	%4ld	%4ld	%7.4g	%7.4g	
+#02002
+02003Field	Transform	Bin	Avg. Dev.	R	KS	Score	Start X	End X	Inner Min	Inner Max	Distribution\n
+02004Field <%hs> Top Scoring transforms:  %ls%hs/%.4f %ls%hs/%.4f %ls%hs/%.4f\n
+02005%.4f, %d: <
+02006%d
+02007,%d
+02008>\n
+02009\n*********************************************\nPopulation size  = <%d>\nIndividual lngth = <%d>\n
+02010*********************************************\n
+02011\nSelected Variable Set is:\n
+02012\n******************************\n
+02013* Cascade Step <%d>, Cascade Iteration <%d>\n
+02014* Creating Generation <%d>\n******************************\n
+02015\nBest evaluation           = <%.3f>\nAverage evaluation        = <%.3f>\nAverage variable set size = <%.3f>\nPatience                  = <%d>\n
+02016\n*** Convergence achieved after <%d> generations ***\n
+02017* Cascade Step <%d>, Cascade Iteration <%d>
+02018Initializing Variable Selection\n
+02019\nTraining output candidates\n
+02020Testing ...
+02021  Test function evaluation = %.4f\n
+02022\n*******************************\nTraining Hidden candidates\n  Number of Established Nodes = %d\n  Best evaluation so far: %.4f\n
+02023Training Candidate %d (Dimension %d)\n
+02024Testing Candidate ...
+02025  Test function evaluation = %.4f\n
+02026Transfer Function chosen = <%ls>\n
+02027\nNumber of compressed %ls records: %ld from: %ld (%.1f%%)\n
+02028%ls Data File pass... 
+02029Transfer function is <%ls>\n
+02030\n*** TRAINING NET <%d> ***\n\n
+
+# main
+02031Do you really want to CANCEL this operation?(y/n) 
+
+02032Final net has <%d> established nodes, test performance of <%.4f>\n
+
+#main
+02033This model has been modified and has not been saved.\n
+02034Close the model without saving?(y/n)\n
+02035%d%hs processed file has:\n
+02036% 6d records missing fields\n
+
+02037Best net has <%d> established nodes, test performance of <%.4f>\n
+02038...Saving Network as <%hs>\n
+02039Previous # inputs to the net: %d\nCurrent  # inputs to the net: %d\n
+02040\n*** Analyzing data ***\n
+02041Training Data File pass... 
+02042Test Data File pass... 
+02043pass complete.\n
+02044Input file <%hs>:  %ld=Short; %ld=Long; %d=Converted\n
+02045Determining status of analysis\n
+02046%ld fields still to process.\n
+02047*** Data analysis complete ***\n
+02048 Number of Input transformations  = %d\n Number of Output transformations = %d\n
+02049\n*** Transforming data ***\n
+02050\n*** Data transformation complete ***\n\n
+02051\n*** Selecting Data Set ***\n
+02052transform code: 
+
+# main
+02053% 6d records with extra fields\n
+02054% 6d usable records\n
+
+02055pass complete.\n
+02056\n*** Performing Duplicate Record Compression ***\n
+02057Test function changed to Relative Entropy\n
+
+# main
+02058The %d%hs network of %d with structure %d-%d-%d yields a performance of %.4f\n
+02059The final network, with structure %d-%d-%d, yields a performance of %.4f\n
+02060Self-Organizing Map Training is now complete.\n
+
+02061\n*** Duplicate Record Compression complete ***\n\n
+02062Noise: aborted by user at test=%d rc=%d\n
+02063Noise: Hidden/Output/Performance:	%.4g	%.4g	%.4g	%d	%d	%d	%d\n
+02064Noise: search terminated at level=%ld lMin=%ld lMax=%ld\n
+02065Noise: %3d  %7.5f %7.5f %7.5f   %7.5f\n
+02066Noise:      %7.5f %7.5f %7.5f\nNoise:      %7d %7d %7d\n
+02067Noise: Searching quadrant %d (nHX=%d,nOx=%d) at level %d\nNoise: Search Hidden/Output/Performance:	%.4g	%.4g	%.4g	%d	%d	%d	%d\n
+02068Noise: FINAL Hidden/Output/Performance:	%.4g	%.4g	%.4g\n
+02069(reserved)
+02070Linear
+02071Sigmoid
+02072TanH
+02073Gaussian
+02074Sine
+02075User
+02076(reserved)
+02077(reserved)
+02078(reserved)
+02079(reserved)
+02080Training
+02081Test
+02082Validation
+02083(reserved)
+02084Linear
+02085Log
+02086LogLog
+02087Exp
+02088ExpExp
+02089Pwr2
+02090Pwr4
+02091Rt2
+02092Rt4
+02093Inv
+02094InvPwr2
+02095InvPwr4
+02096InvRt2
+02097InvRt4
+02098tanh
+02099ln x/(1-x)
+02100(reserved)
+02101(reserved)
+02102(reserved)
+02103(reserved)
+02104(reserved)
+02105logical
+02106rlogical
+02107isint
+02108fzlft
+02109fzrgt
+02110fzraw
+02111fzval
+02112quint
+02113NaN
+02114islit
+02115other
+02116Unknown
+02117License Key Check Failure\n
+02118%hs> 
+02119Analysis> 
+02120Net> 
+02121VSNet> 
+02122VS> 
+02123Command> 
+02124!<eof>\n
+02125Execution of batch script stopped on error.\n
+02126Note: requested Project ID %ld was not acceptable.\n
+02127Project ID: %ld\n
+02128No models are currently open.\n
+02129Open models (by model ID):\n
+02130Warning: 'fields' may not be set properly until AFTER 'defaults' are set.\n
+02131Test Result: %.5f\n
+02132\n*** Starting New Log Session ***\n
+02133%ls successfully set to <%hs>\n
+02134%ls has a value of <%hs>\n
+02135%3d:  %hs\n
+02136Variable Set %d:\n
+02137<%hs>\n
+02138Fitness: %.4f\n
+02139Total Number of Transformations: %d\n
+02140%hs  Version %hs\n
+02141Training, Test, and Validation flags successfully set for %d records.\n
+02142The Command-Line interface is not available for this version of the product.\nAccess %hs by running Microsoft Excel.\n
+02143The Command-Line interface is not available for this version of the product.\n
+02144(Press enter to close)\n
+02145%hs %hs(language %x)\n%hs\nSerial Number: %hs\nCPU ID:        %hs\n
+02146\nEnter License Key: 
+02147\nEnter Expiration Date   : 
+02148Use: ?        Make a list of all current VARIABLE values\n     ??       List syntax of all commands and their arguments\n     ?v       Print the current value of all variables starting with v\n     var?     Prints the syntax for this if unique, otherwise a list\n              of possible matches\n     command  executes a command.\n\n     Commands and Variables may be abbreviated to the fewest characters\n     which provide for unique identification.\n
+02149%hs%hs\n
+02150Elapsed time: %dh %dm %ds ("%hs")\n
+02151,"
+02152Command ignored because of invalid syntax.\n%hs\n%hs^ Syntax Error
+02153%hs 
+02154"%hs"
+02155%-20hs 
+02156,"!
+02157	!
+02158** Store Failure ptr=%8p size=%d func i=0x%02x\n
+02159Could not open batch file <%hs>
+02160Field and transformation numbers required
+02161Field number required
+02162Error: the shell is not available
+02163License Key Check Failure
+02164name,value,[field number],[transformation number]
+02165name,value,[field number],[transformation number]
+02166Get the value of a global parameter
+02167Purge or clear flags
+02168Print the transforms out
+02169Exit from pre-processing menu
+02170Get windows help on a particular topic
+02171Set value for a network parameter
+02172Show value for a network parameter
+02173Get the value of a global parameter
+02174Write weights: file name,format flag
+02175Exit from net menu
+02176Get windows help on a particular topic
+02177Set value for a VS network parameter
+02178Show value for a VS network parameter
+02179Get the value of a global parameter
+02180Exit from VS net menu
+02181Get windows help on a particular topic
+02182Set value for a variable selection parameter
+02183Show value for a variable selection parameter
+02184Get the value of a global parameter
+02185Select variable set by population index
+02186Show variable set by population index
+02187Clear variable set - Use all variables
+02188Print out information for the current variable set
+02189VS Net parameters
+02190Exit from VS memu
+02191Get windows help on a particular topic
+02192Execute a batch file
+02193Create a new model: model ID([1, ..., 512])
+02194Select active model or list open models. ([1, ..., 512])
+02195Problem Type,Noise,Data Analysis,Var. Selection,Net
+02196Training file,test file,validation file
+02197# inputs,input start col,#outputs,output start col
+02198Build the model: actions, build mode
+02199Test the model: data section,evaluation function,header flag,optional analysis file,detailed analysis
+02200Run the model: Input file,Output file,actions flag
+02201Run sensitivity analysis: Input file,Output file,actions flag
+02202Run explain analysis: Input file,Output file,actions flag
+02203Create Case Based Reasoning Net: CBR Net name,source file,merge flag,header flag
+02204Run Case Based Reasoning Net: CBR Net name,input file,output file,actions flag
+02205Generate code: File name,language,OS,function root,In Types,Out Types
+02206Open a model: File name,open mode,model ID([1, ..., 512])
+02207Close the model: force closure
+02208Save the model as: name,mode
+02209Save the model
+02210Save parameter template
+02211Load parameter template
+02212Specify a new log file(stop logging with 'log none')
+02213Use of projlog is now deprecated and behaves as the 'log' command
+02214Seed random number generator
+02215Change current directory
+02216Set value for a global parameter
+02217Show the value of a global parameter
+02218Get the value of a global parameter
+02219This is an alias for shell(default) or showval.
+02220Execute a shell command
+02221Advanced Data Analysis and Transformations
+02222Advanced Variable Selection Parameters and Actions
+02223Advanced Network Parameters and Actions
+02224Exit from the program
+02225Prints out the current working directory
+02226Displays the product's current version
+02227Get windows help on a particular topic
+02228Displays directory contents
+02229Displays directory contents
+02230Writes records from the original data file to a new file based on desired record type
+02231Writes the Training, Test, and Validation record flags to a file
+02232Read the Training, Test, and Validation record flags from a file
+02233Parameter '%hs'
+02234Work Set Selection parameter '%hs'
+02235Analysis parameter '%hs'
+02236Default field parameter '%hs'
+02237Field %d parameter '%hs'
+02238Transform %d of Field %d parameter '%hs'
+02239Variable Selection parameter '%hs'
+02240Network parameter '%hs'
+02241Variable Selection network parameter '%hs'
+02242'%hs'
+02243SOM parameter '%hs'
+02244SOM parameter %hs[%d]
+02245Initial hardware check was not performed.
+02246Unrecognized command-line option "%hs"\n
+02247Usage: Predict [OPTION]... [--] [FILE]... \n  -l, --license-key       Write license key request file.\n  -d, --demo-mode         Run Predict in demonstration mode.\n  -h, --help              This help message.\n
+02248%d records processed: %d records had missing values\n
+02249
+02250
+02251
+02252
+02253
+02254
+02255
+02256
+02257
+02258
+02259
+02260
+02261
+02262
+02263
+02264
+02265
+02266
+02267
+02268
+02269
+02270
+02271
+02272
+02273
+02274
+02275
+02276
+02277
+02278
+02279
+02280
+02281
+02282
+02283
+02284
+02285
+02286
+02287
+02288
+02289
+02290
+02291
+02292
+02293
+02294
+02295
+02296
+02297
+02298
+02299
+02300

@@ -1,0 +1,408 @@
+NAME	ADDRESS	ZIP	SSN	SEX	MARITALSTATUS	CHILDREN	OCCUPATION	HOMEOWNERSHIP	INCOME	EXPENSES	CHECKING	SAVINGS	MSTRCARD	VISA	AMEX	MERCHANT	PAYMENTHISTORY
+Hope Gorman	179 Del Mar Blvd.	99975	470-17-7670	F	M	2	Professional	O	3212	1124	N	Y	1	5	0	9	2
+Sarah Coriano	640 Prospect Lane	99904	355-91-5677	F	M	1	Unknown	O	3145	1100	N	Y	1	5	0	9	0
+Ernest Farmer	474 Green Street	99900	129-21-0468	M	M	0	Unknown	O	3165	1266	N	Y	1	5	0	9	2
+John Coleman	452 Green Street	99924	121-57-2753	M	M	0	Unknown	O	3248	974	N	Y	1	5	0	9	3
+Ernest Coriano	791 Del Mar Blvd.	99975	351-23-3253	M	W	0	Unknown	O	3979	1392	N	Y	1	5	0	0	1
+Carol Silverman	828 Glen View Drive	99900	286-13-9439	F	M	1	Professional	O	3815	1030	N	Y	1	5	0	9	2
+Robert Fraser	1001 Lake Street	99930	442-12-4999	M	M	1	Professional	O	3310	1158	Y	N	3	4	2	3	2
+Faith Farmer	818 Forest St.	99900	389-48-5755	F	M	2	Unknown	R	3214	964	N	Y	2	4	2	9	2
+Carol Gorman	800 Forest St.	99900	309-28-7471	F	M	0	Unknown	O	3598	1439	N	Y	1	4	0	9	2
+Jerry Silverman	387 Lake Street	99918	358-55-3914	M	M	1	Manager	R	3585	1254	N	Y	1	4	0	9	3
+Carol Steinman	707 Rose Court	99920	109-81-2090	F	M	1	Professional	O	3529	1058	N	Y	1	4	0	0	3
+Gary Waxman	750 Del Mar Blvd.	99900	352-80-6455	M	M	1	Professional	O	3976	1192	N	Y	1	4	0	9	3
+Terrence Anthony	549 Maple Lane	99927	212-02-3911	M	M	2	Professional	O	3040	912	N	Y	3	3	3	3	4
+Ernest Fraser	1005 River Road	99930	115-22-8729	M	W	1	Manager	R	3190	957	N	Y	1	3	0	9	6
+Gary Baker	412 Mayfield Drive	99944	187-61-3625	M	S	2	Professional	O	3591	1077	N	Y	1	3	0	9	5
+Anthony Baker	149 Mayfield Drive	99955	202-08-0293	M	M	1	Professional	O	3134	1096	N	Y	1	3	0	9	8
+Samuel Gorman	979 High View Road	99907	162-10-4674	M	M	2	Skilled	O	3609	974	N	Y	1	3	0	9	2
+Robert Brown	516 Del Mar Blvd.	99900	119-49-6441	M	M	2	Professional	O	3462	865	N	Y	1	3	0	9	3
+Robert Farmer	687 Lake Street	99918	437-02-2326	M	M	1	Skilled	O	3476	938	N	N	2	2	2	3	3
+Carol Gorman	870 Hill Avenue	99900	238-33-0548	F	M	1	Skilled	R	3408	1192	N	Y	2	2	0	3	2
+Hope Goldberg	839 Maple Lane	99945	391-71-7029	F	S	1	Unknown	O	3052	1068	N	N	2	2	0	0	3
+Anthony Jones	350 Glen View Drive	99916	447-24-2200	M	M	2	Unknown	O	3608	1262	N	N	2	2	2	3	3
+Anthony Baker	548 Forest St.	99900	311-07-4961	M	M	1	Unknown	O	3341	1169	N	N	2	2	2	6	3
+Sarah Steinman	218 Prospect Lane	99902	445-56-0980	F	M	2	Skilled	O	3726	1117	N	Y	1	2	0	9	1
+Carol Jones	634 Prospect Lane	99904	229-24-5417	F	M	2	Unskilled	O	3384	846	N	Y	1	2	0	9	2
+Faith Smith	601 Mayfield Drive	99911	417-29-9221	F	M	2	Professional	R	3441	1032	N	Y	1	2	0	9	2
+Ernest Jones	86 Green Street	99924	349-84-1431	M	M	1	Professional	R	3859	1041	N	Y	1	2	0	9	3
+Joan Waxman	990 Prospect Lane	99900	147-29-5782	F	M	2	Professional	O	3064	1072	N	Y	1	1	0	9	2
+Robert Brewster	807 Cordova Lane	99942	389-77-8180	M	M	0	Unknown	O	2599	1039	Y	N	2	5	1	9	1
+Hope Jones	213 Mayfield Drive	99933	195-17-8223	F	M	0	Unknown	O	2166	866	N	N	2	5	1	9	1
+Ernest Lewis	639 Hill Avenue	99939	282-05-6195	M	W	1	Manager	O	2092	732	N	Y	1	5	0	6	1
+Sarah Silverman	282 Del Mar Blvd.	99900	242-37-5125	F	W	1	Manager	O	2759	965	N	Y	1	5	0	9	5
+Mike Steinman	623 Main Street	99915	332-63-9805	M	M	0	Unknown	O	2937	1174	N	Y	1	5	0	9	3
+Hope Coleman	954 Broad Street	99900	285-03-0414	F	M	2	Professional	R	2870	1148	N	Y	1	5	0	9	3
+Alex Fraser	852 Main Street	99900	390-78-8103	M	M	2	Professional	O	2359	825	N	Y	1	5	0	9	4
+Hope Fraser	639 Mayfield Drive	99933	396-61-3506	F	M	0	Unknown	O	2472	988	N	Y	1	5	0	9	2
+John Coriano	627 Prospect Lane	99903	142-89-4588	M	M	1	Professional	O	2773	831	Y	N	3	4	1	6	3
+Gary Waxman	550 Cordova Lane	99956	458-64-6851	M	M	1	Professional	O	2444	659	Y	Y	3	4	1	9	1
+Samuel Goldberg	610 Prospect Lane	99904	236-80-6957	M	S	1	Professional	O	2489	622	N	N	2	4	1	3	2
+Terrence Baker	873 Forest St.	99900	111-32-4456	M	S	1	Professional	O	2068	517	N	Y	2	4	1	9	3
+Robert Fraser	285 Prospect Lane	99903	194-01-8760	M	M	2	Skilled	O	2357	824	N	Y	1	4	0	9	2
+Jerry Waxman	181 Glen View Drive	99908	149-37-4590	M	M	1	Unknown	R	2844	1137	N	Y	1	4	0	9	1
+Samuel Silverman	785 Green Street	99960	392-90-1389	M	M	0	Unknown	O	2050	717	N	Y	2	3	1	9	2
+Hope Lewis	48 Rose Court	99900	481-05-2737	F	M	0	Unknown	O	2301	920	N	Y	1	3	0	9	0
+Hope Farmer	515 Cordova Lane	99970	441-36-3170	F	M	2	Unskilled	O	2015	806	N	Y	1	3	0	9	3
+Fred Anthony	1022 Main Street	99906	303-41-7606	M	W	1	Unknown	R	2236	894	N	Y	1	3	0	9	3
+Ernest Steinman	96 Cordova Lane	99900	158-05-7842	M	M	2	Unknown	R	2448	856	N	Y	1	2	0	9	1
+Mike Coriano	982 Mayfield Drive	99944	411-07-0718	M	S	0	Unknown	O	2213	774	N	Y	1	2	0	9	3
+Fred Waxman	725 Main Street	99915	434-58-6751	M	M	1	Unknown	O	2201	506	N	Y	1	2	0	9	3
+Alex Steinman	1011 River Road	99930	476-90-6666	M	W	1	Unknown	R	8205	2215	N	Y	1	5	0	9	2
+Carol Silverman	490 Park Avenue	99920	170-55-5491	F	M	1	Skilled	O	6645	1794	N	Y	2	4	3	9	4
+Gary Coriano	108 Park Avenue	99900	423-05-6404	M	M	1	Professional	O	7997	2399	N	Y	2	3	0	9	1
+John Gorman	196 Del Mar Blvd.	99960	445-70-4134	M	M	2	Manager	O	4779	1433	Y	N	2	5	2	0	4
+Sarah Baker	71 Lake Street	99930	362-49-1191	F	M	2	Manager	O	4667	1400	N	Y	1	5	0	9	4
+Terrence Baker	720 Forest St.	99900	224-54-1751	M	M	0	Unknown	R	5896	2358	N	Y	1	5	0	9	1
+Gary Smith	626 Park Avenue	99910	139-20-1220	M	M	2	Manager	O	4321	1296	N	Y	1	4	0	9	4
+Sarah Smith	567 Glen View Drive	99924	457-26-6595	F	W	1	Manager	O	3662	1098	Y	Y	2	5	2	9	4
+Samuel Goldberg	809 Green Street	99960	132-75-2993	M	M	1	Professional	O	3484	940	Y	Y	2	5	0	9	0
+Anthony Jones	238 Prospect Lane	99904	169-46-6218	M	M	1	Manager	O	3961	1386	N	Y	1	5	0	9	1
+Gary Steinman	196 Main Street	99912	175-54-5364	M	M	1	Unknown	O	3279	1147	Y	Y	3	4	1	0	3
+Fred Brown	975 Rose Court	99912	201-36-4145	M	M	2	Manager	O	3703	925	N	Y	1	4	0	9	3
+Terrence Jones	364 Prospect Lane	99904	384-68-0007	M	M	1	Unknown	R	3113	1245	N	Y	1	4	0	9	5
+Ernest Lewis	753 High View Road	99921	388-97-4481	M	M	1	Unknown	O	3574	964	N	N	3	3	3	0	3
+Mike Coriano	971 Glen View Drive	99940	217-40-3043	M	M	1	Manager	O	3127	938	N	Y	1	3	0	9	3
+Carol Lewis	876 Maple Lane	99900	269-57-9288	F	M	0	Unknown	R	3520	1408	N	Y	2	2	1	0	2
+Faith Anthony	252 Maple Lane	99900	457-50-3633	F	M	2	Professional	O	3591	1077	N	Y	2	2	3	9	4
+Sarah Brown	259 Lake Street	99906	268-57-4957	F	M	2	Professional	O	3075	830	N	Y	1	2	0	9	5
+Robert Brewster	1021 Green Street	99912	428-29-6037	M	M	0	Unknown	R	2811	1124	N	Y	3	5	3	9	2
+Ernest Waxman	674 Rose Court	99908	314-13-3906	M	M	1	Unknown	R	2949	1179	N	Y	3	5	1	9	2
+Alex Farmer	381 High View Road	99921	208-87-8320	M	W	1	Unknown	O	2450	980	N	N	2	5	0	0	2
+Terrence Anthony	0 Prospect Lane	99900	483-22-6277	M	M	2	Skilled	O	2425	727	N	Y	2	5	2	9	4
+Terrence Gorman	18 River Road	99900	254-39-8571	M	M	1	Unknown	O	2391	956	N	Y	1	5	0	9	1
+Alex Goldberg	830 Broad Street	99904	146-07-0968	M	M	0	Unknown	R	2343	937	N	Y	1	5	0	9	1
+John Fraser	840 Cordova Lane	99900	148-43-4310	M	M	0	Unknown	O	2857	1142	N	Y	1	5	0	9	2
+Fred Silverman	651 River Road	99930	320-03-0031	M	M	0	Unknown	O	2392	956	N	Y	1	5	0	9	4
+Terrence Steinman	593 Park Avenue	99925	251-79-7503	M	S	3	Skilled	R	2367	828	N	Y	1	5	0	9	4
+Gary Baker	653 Lake Street	99930	406-48-5424	M	M	0	Unknown	O	2188	875	N	Y	1	5	0	9	0
+Jerry Goldberg	131 River Road	99950	414-46-0148	M	S	1	Unskilled	R	2501	625	N	Y	1	4	0	9	1
+Alex Gorman	435 High View Road	99921	211-85-9907	M	M	3	Unknown	O	2471	864	N	Y	1	4	0	9	2
+Ernest Goldberg	567 Prospect Lane	99903	241-41-3756	M	S	1	Unknown	R	2764	1105	N	Y	1	4	0	9	4
+Robert Anthony	10 Maple Lane	99936	413-48-1658	M	M	1	Skilled	O	2597	701	N	N	2	3	1	9	3
+Robert Brown	56 Mayfield Drive	99922	200-07-8119	M	M	3	Manager	O	2103	567	N	Y	1	3	0	0	1
+Mike Steinman	824 Rose Court	99908	394-35-1427	M	M	2	Skilled	O	2817	760	Y	Y	2	2	1	9	7
+Jerry Silverman	67 Maple Lane	99909	130-20-0174	M	W	1	Professional	R	2071	828	N	Y	2	2	2	0	0
+Mike Gorman	923 Cordova Lane	99970	377-88-5709	M	W	1	Unknown	R	2077	830	N	Y	1	2	0	9	3
+Mike Anthony	807 Main Street	99909	359-27-6292	M	M	0	Unknown	R	2666	933	N	Y	1	2	0	9	5
+Gary Brewster	782 Hill Avenue	99926	297-73-3106	M	M	1	Professional	O	2276	569	N	Y	1	2	0	9	3
+Joan Jones	757 Main Street	99903	321-02-2220	F	W	0	Unknown	O	2211	884	N	Y	1	2	0	9	3
+Fred Silverman	680 Prospect Lane	99902	228-25-3221	M	M	2	Skilled	O	2414	724	N	N	2	1	1	4	1
+Alex Brown	869 Hill Avenue	99965	499-35-0472	M	M	2	Professional	O	5617	1685	N	Y	1	4	0	9	1
+Gary Coriano	500 Main Street	99906	334-68-0254	M	M	1	Professional	O	5467	1913	N	Y	1	4	0	9	1
+Gary Brown	292 Park Avenue	99920	250-53-3278	M	M	2	Professional	O	3313	993	N	Y	1	5	0	9	4
+Sarah Farmer	916 High View Road	99928	113-19-0226	F	M	1	Skilled	O	3595	898	N	N	3	4	3	9	1
+Fred Fraser	12 Main Street	99900	110-49-3319	M	M	2	Skilled	O	3007	1052	N	Y	1	4	0	9	4
+Terrence Brewster	187 Glen View Drive	99908	210-39-0652	M	M	0	Unknown	O	3277	1146	N	Y	1	3	0	9	2
+Terrence Baker	0 High View Road	99900	163-03-7349	M	M	2	Skilled	O	3282	886	N	Y	1	2	0	9	2
+Fred Brown	517 Park Avenue	99905	336-09-2117	M	W	0	Unknown	O	3659	1463	N	Y	1	1	0	9	1
+Ernest Brewster	234 Green Street	99900	191-19-6237	M	M	2	Skilled	R	3766	1016	N	Y	1	1	0	9	3
+Faith Lewis	423 Glen View Drive	99924	207-59-2005	F	W	2	Unknown	O	2039	815	N	Y	2	5	1	0	2
+Joan Jones	270 Park Avenue	99900	462-52-1960	F	M	2	Unknown	O	2953	1181	N	Y	1	5	0	9	2
+John Fraser	287 Prospect Lane	99905	227-34-5686	M	M	1	Skilled	R	2650	1060	N	Y	1	5	0	9	0
+Mike Jones	1005 Glen View Drive	99924	321-50-0336	M	W	1	Professional	O	2475	990	N	Y	1	5	0	9	5
+Terrence Steinman	254 Prospect Lane	99902	217-87-9586	M	M	3	Professional	O	2083	624	N	Y	1	5	0	9	4
+Anthony Brewster	23 Cordova Lane	99970	444-51-7461	M	W	0	Unknown	R	2513	879	N	Y	1	5	0	9	3
+Alex Brewster	785 Del Mar Blvd.	99975	394-94-0098	M	M	0	Unknown	R	2241	896	N	Y	1	5	0	9	2
+Terrence Baker	713 Lake Street	99930	332-20-3959	M	W	1	Unknown	O	2041	816	N	Y	1	5	0	9	4
+Hope Steinman	921 Maple Lane	99927	101-80-2014	F	W	1	Professional	O	2145	643	N	Y	1	5	0	9	4
+Robert Farmer	318 Maple Lane	99900	352-80-3193	M	W	1	Unknown	O	2378	951	N	Y	1	5	0	9	3
+Hope Coleman	975 Lake Street	99918	489-78-1999	F	M	0	Unknown	O	2127	744	N	Y	1	4	0	9	2
+John Coriano	290 Cordova Lane	99928	188-79-7545	M	S	1	Skilled	O	2734	820	N	Y	1	4	0	9	1
+Samuel Gorman	907 Mayfield Drive	99911	456-13-4913	M	M	0	Unknown	O	2502	1000	N	Y	1	4	0	9	1
+John Brewster	988 Del Mar Blvd.	99960	459-04-1618	M	M	2	Skilled	O	2395	718	N	Y	1	4	0	9	1
+Samuel Fraser	890 Del Mar Blvd.	99930	292-64-0424	M	M	2	Professional	R	2230	669	N	Y	1	4	0	9	4
+Sarah Coriano	672 Green Street	99900	164-95-8892	F	M	2	Professional	O	2793	698	N	Y	1	4	0	9	1
+Jerry Brown	273 Main Street	99909	260-26-6875	M	M	0	Unknown	O	2627	1050	N	Y	1	4	0	9	2
+Fred Farmer	901 Park Avenue	99905	311-85-8900	M	M	1	Professional	R	2370	829	N	Y	1	3	0	9	2
+Faith Anthony	854 Lake Street	99912	444-10-4734	F	M	1	Professional	O	2652	663	N	Y	1	3	0	0	1
+Samuel Lewis	42 Forest St.	99900	261-87-1091	M	M	1	Unknown	R	2783	1113	N	Y	1	3	0	9	4
+Alex Coleman	752 Cordova Lane	99928	160-15-0125	M	M	0	Skilled	R	2759	1103	N	Y	1	3	0	9	3
+Faith Coriano	709 Lake Street	99906	335-92-9245	F	M	0	Unknown	O	2418	967	N	Y	1	3	0	9	0
+John Gorman	403 Park Avenue	99905	363-24-1864	M	M	2	Professional	R	2508	877	N	Y	1	3	0	9	0
+Carol Fraser	441 Maple Lane	99927	231-98-4425	F	M	1	Skilled	R	2336	817	N	Y	1	3	0	9	4
+Gary Waxman	566 High View Road	99914	181-80-4420	M	W	0	Unknown	O	2313	925	N	Y	2	2	1	9	1
+Sarah Brown	511 Maple Lane	99909	407-46-5019	F	W	1	Unknown	R	2774	1109	N	Y	2	2	3	9	3
+Gary Waxman	377 Forest St.	99900	282-78-7174	M	M	2	Unknown	R	2270	908	N	Y	2	2	1	9	4
+Sarah Baker	431 Maple Lane	99945	454-22-1612	F	M	2	Skilled	O	2643	925	N	Y	2	2	0	9	2
+Joan Coleman	408 Del Mar Blvd.	99900	376-80-4333	F	M	1	Unknown	R	2853	998	N	Y	1	2	0	9	3
+Anthony Coleman	836 Hill Avenue	99926	414-95-0925	M	M	1	Unknown	O	2456	859	N	Y	1	2	0	9	4
+Anthony Coriano	234 Hill Avenue	99900	311-23-4370	M	M	1	Skilled	R	2600	650	N	Y	1	2	0	9	2
+Alex Goldberg	858 Del Mar Blvd.	99900	353-75-0135	M	M	2	Unknown	R	2780	973	N	Y	1	2	0	9	3
+Anthony Coriano	521 Mayfield Drive	99955	101-30-7849	M	M	0	Unknown	R	2534	886	N	Y	1	2	0	9	2
+Mike Lewis	3 Rose Court	99912	400-92-2244	M	M	2	Unskilled	R	2162	864	N	Y	1	2	0	9	3
+Alex Baker	444 Green Street	99900	359-04-1720	M	S	1	Professional	O	2369	592	N	Y	1	2	0	9	2
+Joan Farmer	357 Broad Street	99906	268-52-3152	F	M	1	Unknown	O	2178	871	N	Y	1	2	0	9	4
+Gary Brown	217 High View Road	99907	300-97-5027	M	M	0	Unknown	R	2526	1010	N	Y	1	2	0	9	3
+Samuel Steinman	421 Cordova Lane	99914	169-35-7627	M	S	0	Unknown	R	2858	1000	N	Y	1	2	0	9	2
+Mike Baker	687 High View Road	99921	301-55-5101	M	M	2	Unknown	O	2763	828	N	Y	1	2	0	9	2
+Faith Brown	282 High View Road	99900	227-28-2580	F	M	1	Unknown	O	2209	773	N	Y	1	1	0	9	3
+Jerry Baker	538 Lake Street	99924	338-79-4890	M	M	2	Unknown	R	2898	1159	N	Y	1	1	0	9	4
+Hope Farmer	757 River Road	99910	251-66-4526	F	S	1	Professional	R	2199	549	N	Y	1	1	0	9	2
+Robert Lewis	17 Lake Street	99930	297-10-6851	M	M	2	Skilled	R	2902	870	N	Y	1	1	0	9	4
+Sarah Coriano	938 Forest St.	99900	389-88-8858	F	S	1	Skilled	O	7250	1812	N	Y	1	5	0	0	4
+Joan Waxman	702 Rose Court	99900	187-13-4201	F	M	0	Unknown	O	8423	3369	N	Y	1	5	0	0	2
+Gary Brown	20 Cordova Lane	99928	242-07-3617	M	W	2	Professional	O	6690	2007	N	Y	2	4	1	0	2
+John Smith	578 Park Avenue	99910	246-24-1208	M	M	2	Professional	R	6053	1634	N	Y	1	4	0	0	1
+Gary Lewis	651 Forest St.	99900	266-71-6239	M	M	1	Unknown	O	8115	2434	N	Y	1	3	0	0	5
+Gary Fraser	438 High View Road	99900	382-08-0141	M	M	0	Unknown	R	4084	1633	N	Y	2	5	3	0	5
+Faith Steinman	193 Cordova Lane	99914	189-82-8173	F	W	1	Unknown	O	5904	2361	N	Y	1	5	0	0	1
+Jerry Farmer	30 River Road	99900	319-86-3476	M	M	2	Professional	O	5783	1445	N	Y	1	5	0	0	3
+Samuel Anthony	767 Cordova Lane	99970	318-85-3390	M	M	1	Professional	O	5238	2095	N	N	3	3	2	0	3
+Terrence Steinman	678 Prospect Lane	99900	170-49-5767	M	M	2	Professional	O	5045	1362	N	Y	1	3	0	0	1
+Samuel Brown	771 Main Street	99909	373-92-2817	M	M	2	Manager	R	3098	774	N	Y	2	4	0	0	2
+Carol Baker	66 Mayfield Drive	99900	101-70-1167	F	M	2	Manager	O	3960	1386	N	N	2	4	0	0	2
+Mike Silverman	150 High View Road	99900	291-60-8447	M	M	2	Professional	R	3651	1277	N	Y	1	4	0	0	1
+Carol Waxman	112 River Road	99940	386-25-7039	F	M	1	Manager	O	3526	1057	N	Y	1	3	0	0	1
+Sarah Jones	511 Mayfield Drive	99911	412-77-7824	F	M	2	Skilled	O	3858	1041	N	Y	1	2	0	0	2
+Samuel Smith	805 Green Street	99912	331-52-8490	M	W	1	Skilled	O	2479	867	N	Y	3	5	3	0	2
+Sarah Coriano	845 Del Mar Blvd.	99975	384-40-6146	F	W	1	Unknown	O	2270	794	N	Y	1	5	0	0	2
+Gary Baker	355 Del Mar Blvd.	99915	313-76-5398	M	W	1	Unknown	O	2457	859	N	Y	1	5	0	0	5
+Samuel Goldberg	741 Maple Lane	99927	320-92-7565	M	S	1	Unknown	R	2766	968	N	Y	1	5	0	0	2
+Carol Steinman	601 Mayfield Drive	99911	124-03-7237	F	M	1	Skilled	R	2758	965	N	Y	1	5	0	0	1
+Alex Lewis	863 Green Street	99960	359-20-4558	M	W	1	Unknown	O	2986	1194	N	Y	1	5	0	0	1
+Hope Fraser	159 High View Road	99921	150-04-9797	F	M	2	Skilled	R	2167	650	N	Y	1	5	0	0	5
+Terrence Jones	882 Forest St.	99900	387-48-9555	M	W	1	Unknown	O	2815	1126	N	Y	1	5	0	0	4
+Faith Steinman	518 Park Avenue	99910	179-54-7867	F	M	0	Unknown	O	2377	950	N	Y	1	5	0	0	2
+Jerry Jones	17 Rose Court	99920	278-94-5000	M	M	0	Unknown	O	2664	1065	N	Y	1	5	0	0	3
+Samuel Gorman	622 Prospect Lane	99904	247-58-3539	M	M	1	Unknown	O	2765	967	N	Y	1	5	0	0	1
+Mike Coriano	448 Glen View Drive	99932	472-71-1910	M	W	0	Unknown	R	2551	1020	N	Y	1	5	0	0	2
+Carol Farmer	674 Cordova Lane	99928	489-73-6037	F	M	1	Manager	R	2804	981	N	Y	1	5	0	0	3
+Samuel Smith	254 Main Street	99906	229-49-0322	M	M	1	Professional	O	2502	1000	N	Y	1	5	0	0	4
+Sarah Coriano	529 Rose Court	99904	243-79-9080	F	M	1	Unknown	R	2169	650	N	Y	1	4	0	0	2
+Ernest Farmer	745 Park Avenue	99905	343-74-0564	M	W	0	Unknown	R	2369	947	N	Y	1	4	0	0	1
+Terrence Fraser	46 Maple Lane	99936	231-04-9570	M	W	1	Skilled	R	2902	1015	N	Y	1	4	0	0	4
+Terrence Brown	684 Mayfield Drive	99900	145-60-0520	M	W	1	Professional	O	2436	852	N	Y	1	4	0	0	1
+John Brewster	806 Rose Court	99908	162-05-7589	M	M	1	Professional	R	2474	989	N	Y	1	4	0	0	4
+Robert Brown	568 Main Street	99912	109-39-3351	M	M	2	Skilled	R	2648	1059	N	Y	1	4	0	0	2
+Joan Waxman	574 Park Avenue	99920	301-46-6218	F	M	2	Manager	O	2162	583	N	N	4	3	0	0	1
+Fred Smith	609 Green Street	99936	439-75-6298	M	M	1	Manager	O	2049	614	Y	Y	3	3	0	0	3
+Faith Goldberg	867 River Road	99930	409-44-0874	F	M	1	Unknown	R	2740	822	N	Y	2	3	3	0	4
+Samuel Steinman	996 High View Road	99900	474-46-0135	M	S	1	Professional	O	2327	628	N	Y	1	3	0	0	1
+Sarah Steinman	838 Mayfield Drive	99944	321-36-9516	F	M	0	Unknown	O	2994	1197	N	Y	1	3	0	0	1
+Sarah Coriano	829 Hill Avenue	99913	160-94-7060	F	M	1	Unknown	R	2106	737	N	Y	1	3	0	0	3
+Anthony Gorman	562 Maple Lane	99936	341-67-9178	M	M	0	Unknown	O	2512	1004	N	Y	1	3	0	0	0
+Alex Coriano	452 Cordova Lane	99928	230-18-8147	M	W	1	Skilled	O	2068	723	N	Y	1	3	0	0	3
+Samuel Smith	710 Prospect Lane	99902	260-63-6211	M	M	1	Unknown	R	2594	1037	N	Y	1	3	0	0	5
+Ernest Gorman	332 Park Avenue	99910	182-93-9203	M	M	2	Unknown	R	2697	674	N	Y	1	3	0	0	4
+Fred Coriano	896 River Road	99920	338-91-9472	M	W	1	Unskilled	O	2414	844	N	Y	1	3	0	0	4
+Hope Farmer	910 River Road	99940	108-41-7940	F	M	2	Unknown	O	2491	996	N	Y	1	2	0	0	3
+Sarah Waxman	321 Mayfield Drive	99933	319-56-6978	F	M	0	Unknown	O	2048	716	N	Y	1	2	0	0	2
+Faith Brown	480 Lake Street	99900	108-49-7670	F	M	1	Unknown	R	2495	873	N	Y	1	2	0	0	5
+Faith Brewster	377 Hill Avenue	99965	403-81-6087	F	S	0	Unknown	O	2050	717	N	Y	1	2	0	0	3
+Gary Steinman	224 Park Avenue	99910	496-92-0154	M	S	0	Unknown	R	2996	1198	N	Y	1	2	0	0	1
+Jerry Silverman	633 Main Street	99909	141-26-4473	M	W	0	Unknown	O	2941	1176	N	Y	1	2	0	0	3
+Ernest Smith	524 Mayfield Drive	99922	471-94-4035	M	S	0	Unknown	O	2983	1193	N	Y	1	2	0	0	3
+Hope Brewster	578 River Road	99920	250-97-8846	F	M	1	Manager	O	2457	663	N	Y	1	2	0	0	1
+Carol Farmer	100 Del Mar Blvd.	99960	303-69-3730	F	M	2	Unskilled	O	2598	909	N	Y	1	2	0	0	1
+Gary Brown	1019 Forest St.	99900	141-58-4601	M	S	0	Unknown	R	2147	858	N	Y	1	2	0	0	2
+John Jones	543 Forest St.	99900	317-21-0095	M	M	1	Professional	O	2649	715	N	Y	1	2	0	0	2
+Gary Lewis	390 Rose Court	99900	261-54-3270	M	M	1	Skilled	O	2276	614	N	Y	1	2	0	0	3
+Robert Farmer	959 Forest St.	99900	454-22-6388	M	M	2	Skilled	O	2537	684	N	Y	1	2	0	0	1
+Carol Steinman	608 Main Street	99906	318-94-5156	F	W	1	Skilled	R	2733	737	N	Y	1	2	0	0	2
+Anthony Brewster	910 River Road	99940	421-31-0571	M	M	2	Unskilled	O	2057	514	N	Y	1	2	0	0	1
+Mike Fraser	783 Maple Lane	99927	268-33-1598	M	M	1	Skilled	O	2812	703	N	Y	1	1	0	0	5
+Samuel Waxman	455 Glen View Drive	99940	465-25-3216	M	S	1	Manager	R	2345	938	N	Y	1	4	2	0	12
+Ernest Anthony	819 Prospect Lane	99903	306-48-0741	M	M	2	Principal	O	6682	1804	Y	Y	2	5	2	8	12
+Samuel Brewster	332 River Road	99920	222-82-5273	M	M	2	Principal	O	2523	1009	N	Y	1	5	1	9	12
+Ernest Brewster	777 Maple Lane	99927	387-13-2540	M	M	2	Manager	O	5071	1267	Y	Y	3	4	1	9	12
+Samuel Smith	938 Mayfield Drive	99922	219-26-0535	M	M	2	Principal	O	7563	2268	N	Y	1	4	3	9	12
+Alex Steinman	678 Green Street	99900	318-09-6349	M	S	1	Manager	O	8835	2650	N	Y	2	5	0	3	12
+John Coriano	1021 Forest St.	99900	282-16-9055	M	M	1	Manager	O	4937	1332	N	Y	1	3	0	9	12
+Samuel Coriano	385 River Road	99910	275-32-6906	M	S	1	Manager	O	3673	991	Y	Y	2	3	3	6	12
+Hope Fraser	146 Del Mar Blvd.	99930	275-93-6385	F	M	1	Principal	O	3475	1042	N	Y	3	5	0	8	12
+John Waxman	540 Maple Lane	99900	245-90-8585	M	M	1	Principal	O	8698	3044	N	Y	2	5	2	6	12
+Sarah Coleman	677 Green Street	99960	278-15-2388	F	M	2	Principal	O	6283	2199	Y	Y	4	5	0	5	12
+Fred Jones	739 Rose Court	99904	261-33-5736	M	M	2	Principal	O	6981	1884	Y	Y	3	3	0	7	12
+Carol Jones	636 Rose Court	99900	348-77-8828	F	M	2	Professional	O	2875	776	Y	Y	3	2	1	2	12
+Sarah Brewster	190 Hill Avenue	99952	477-65-0517	F	M	2	Principal	O	6992	2097	N	Y	3	2	1	3	12
+Terrence Brewster	467 Prospect Lane	99905	439-38-5960	M	M	2	Principal	O	2523	883	N	Y	3	2	3	8	12
+Robert Smith	178 River Road	99940	244-53-9823	M	M	1	Principal	O	6482	2268	N	Y	2	5	0	8	12
+Jerry Smith	940 Rose Court	99916	414-99-3951	M	S	3	Professional	O	2216	554	Y	Y	2	2	2	8	12
+Jerry Anthony	223 High View Road	99907	110-35-4719	M	M	2	Principal	O	7370	2211	Y	Y	1	5	2	8	12
+Carol Gorman	260 Maple Lane	99918	137-81-1502	F	M	2	Principal	O	6297	1889	N	Y	2	5	3	4	12
+Joan Fraser	654 Hill Avenue	99900	352-43-0680	F	W	1	Principal	O	5485	1645	N	Y	1	3	3	8	12
+Samuel Brewster	225 Cordova Lane	99942	137-41-4903	M	M	1	Manager	O	6932	2426	N	Y	3	5	0	4	12
+Carol Farmer	858 Broad Street	99900	495-16-1329	F	M	1	Professional	R	6091	1827	N	Y	1	5	0	9	12
+Mike Goldberg	338 Del Mar Blvd.	99930	132-46-1756	M	S	1	Principal	O	8849	2654	N	Y	1	5	0	9	12
+Alex Anthony	650 Mayfield Drive	99922	460-16-7180	M	M	3	Manager	R	7554	2039	N	Y	1	3	2	9	12
+Robert Gorman	224 Park Avenue	99910	466-79-5195	M	M	2	Professional	O	4069	1220	N	Y	1	5	1	9	12
+Fred Goldberg	532 Prospect Lane	99904	436-96-3341	M	M	1	Unknown	O	8258	2890	N	Y	3	4	2	7	12
+Joan Smith	413 Green Street	99960	305-66-2207	F	M	1	Unknown	O	2835	850	N	Y	1	3	2	8	12
+Anthony Coleman	452 Del Mar Blvd.	99930	432-11-6422	M	M	1	Professional	O	3100	1240	N	Y	2	5	2	7	12
+Faith Brown	434 Main Street	99906	281-79-2396	F	M	2	Principal	O	4487	1570	N	Y	3	5	3	5	12
+Samuel Goldberg	562 Cordova Lane	99956	146-42-0302	M	M	0	Unknown	O	5447	1906	N	Y	1	5	0	9	12
+Mike Anthony	832 Main Street	99912	372-94-4108	M	M	2	Professional	O	3357	1007	N	Y	2	5	2	8	12
+Mike Waxman	208 Mayfield Drive	99944	185-07-9670	M	M	1	Unknown	O	7097	2838	N	Y	1	5	0	9	12
+Joan Jones	900 Main Street	99900	398-06-5276	F	W	1	Principal	O	3302	990	Y	Y	3	3	1	5	12
+Terrence Coriano	519 Mayfield Drive	99933	147-70-9620	M	S	1	Professional	O	2759	689	N	Y	2	2	2	6	12
+Fred Farmer	138 Forest St.	99900	120-19-5541	M	M	3	Professional	O	7689	2306	N	Y	4	2	2	9	12
+Carol Fraser	744 River Road	99900	171-99-0855	F	M	1	Principal	O	4199	1469	Y	Y	5	5	2	7	12
+Jerry Baker	963 Hill Avenue	99939	400-59-0153	M	M	2	Professional	O	5316	1594	N	Y	2	3	2	5	12
+Fred Baker	635 Main Street	99915	182-66-7601	M	M	0	Unknown	O	3399	1189	N	Y	1	4	0	9	12
+Faith Jones	324 Hill Avenue	99900	190-86-0775	F	M	3	Unknown	O	2344	937	N	Y	1	5	3	9	12
+Fred Fraser	211 River Road	99910	365-04-4243	M	M	1	Principal	O	4469	1564	N	Y	2	3	1	8	12
+Jerry Lewis	186 Lake Street	99900	227-51-7585	M	M	1	Principal	O	7724	2317	N	Y	2	5	3	6	12
+Sarah Coleman	22 Hill Avenue	99952	398-73-8251	F	M	1	Manager	O	8854	3541	N	Y	1	5	1	6	12
+Anthony Silverman	59 Lake Street	99930	103-88-5519	M	M	1	Manager	O	7452	2980	N	Y	4	5	0	4	12
+Mike Jones	558 Forest St.	99900	294-02-7849	M	M	2	Principal	O	8256	2476	N	Y	1	3	1	6	12
+John Smith	749 Main Street	99915	348-03-3084	M	M	1	Manager	O	4161	1123	Y	Y	3	4	1	5	12
+Ernest Brewster	344 High View Road	99914	215-35-2352	M	M	1	Principal	O	7025	1896	N	Y	2	5	3	3	12
+Anthony Lewis	481 Forest St.	99900	344-30-5322	M	M	1	Principal	O	8000	2800	N	Y	2	5	2	5	12
+Terrence Smith	373 Rose Court	99904	351-02-1021	M	M	1	Principal	O	7536	3014	N	Y	2	3	0	9	12
+Anthony Anthony	943 Green Street	99912	171-96-7821	M	M	2	Principal	O	5655	2262	N	Y	2	5	2	7	12
+Ernest Baker	966 River Road	99900	416-53-8683	M	M	1	Professional	O	3086	1234	N	Y	2	5	0	4	12
+Samuel Baker	707 Park Avenue	99925	492-54-4904	M	M	2	Principal	O	5584	2233	N	Y	1	5	2	9	12
+Ernest Gorman	462 Cordova Lane	99900	355-29-8684	M	M	2	Principal	O	7616	3046	N	Y	2	5	2	4	12
+Gary Farmer	444 Del Mar Blvd.	99900	257-30-9235	M	M	2	Principal	O	6260	1690	N	Y	2	3	2	8	11
+John Steinman	186 Lake Street	99900	225-02-5663	M	S	2	Principal	O	3155	851	N	Y	1	2	0	8	12
+Ernest Lewis	533 Mayfield Drive	99955	280-06-4352	M	M	3	Principal	O	3792	1137	N	Y	1	2	3	9	12
+Joan Silverman	540 Rose Court	99900	316-05-9192	F	M	1	Unknown	O	4435	1774	N	Y	2	5	2	8	12
+Hope Lewis	134 Main Street	99906	487-66-3352	F	S	1	Professional	O	3033	909	N	Y	4	5	0	8	12
+Gary Coriano	305 Lake Street	99930	445-70-9743	M	M	2	Principal	O	8798	2199	N	Y	1	4	3	8	12
+Ernest Fraser	642 Hill Avenue	99900	446-13-5302	M	M	1	Principal	R	5865	1759	N	Y	5	5	2	3	12
+Alex Coleman	992 Forest St.	99900	181-55-2024	M	M	1	Manager	O	8114	2190	Y	Y	3	5	0	7	12
+Jerry Brewster	561 Green Street	99936	478-99-2128	M	M	1	Professional	O	7108	2487	N	Y	1	5	0	9	12
+John Waxman	913 Hill Avenue	99913	333-75-3886	M	M	1	Principal	O	7117	1921	N	Y	1	5	1	9	12
+Joan Smith	1004 Glen View Drive	99916	435-60-8693	F	M	2	Principal	O	6162	1663	N	Y	4	4	1	7	12
+John Brown	1004 Main Street	99906	248-12-8562	M	M	1	Unknown	O	8975	3141	N	Y	3	4	1	7	12
+Fred Anthony	550 Rose Court	99916	136-46-7260	M	M	2	Principal	O	6435	1930	N	Y	3	4	1	9	12
+Sarah Brewster	244 Maple Lane	99936	264-66-3861	F	M	2	Principal	O	8129	2194	N	Y	1	4	0	9	12
+Fred Gorman	869 Cordova Lane	99970	252-28-1241	M	M	1	Professional	O	7547	2641	N	Y	2	2	3	8	12
+Sarah Brown	125 Lake Street	99930	402-78-3026	F	M	2	Manager	O	7624	2058	N	Y	2	2	2	9	12
+John Lewis	516 Hill Avenue	99900	386-78-5593	M	M	1	Skilled	O	6774	2032	N	Y	1	2	0	9	12
+Ernest Coriano	820 Green Street	99948	467-14-6680	M	S	1	Principal	O	5207	1562	Y	Y	3	5	2	5	12
+Fred Coriano	268 Hill Avenue	99952	344-10-7736	M	M	2	Principal	O	5451	1907	N	Y	1	5	3	9	12
+Sarah Gorman	80 Green Street	99924	238-67-8341	F	M	2	Principal	O	4007	1202	N	Y	1	5	0	9	12
+Hope Steinman	341 Green Street	99960	187-61-5976	F	M	1	Principal	R	5883	2059	N	Y	1	2	2	9	12
+Ernest Goldberg	908 Prospect Lane	99902	462-96-9888	M	M	2	Manager	O	5994	1618	N	Y	1	2	2	9	12
+Carol Goldberg	264 Park Avenue	99900	456-55-9332	F	M	1	Principal	O	2795	1118	N	Y	1	5	3	9	12
+Terrence Smith	158 Cordova Lane	99928	134-75-0327	M	M	1	Manager	O	6309	1703	N	Y	3	3	1	7	12
+John Anthony	37 Cordova Lane	99914	118-38-8609	M	M	2	Principal	O	5784	1735	Y	Y	7	5	3	3	12
+Sarah Farmer	461 River Road	99950	357-61-0012	F	M	2	Principal	O	6802	2040	N	Y	3	4	3	3	12
+Gary Farmer	785 Green Street	99960	252-51-0323	M	M	1	Professional	O	7437	1859	N	Y	2	4	1	6	12
+Jerry Gorman	601 Maple Lane	99909	396-61-0570	M	M	2	Manager	O	6925	1869	N	Y	1	3	2	9	12
+Hope Brown	278 Park Avenue	99910	160-98-8034	F	W	1	Professional	O	3362	907	N	Y	1	4	3	9	12
+Gary Coleman	990 Mayfield Drive	99900	124-12-5615	M	M	2	Skilled	O	2374	830	N	Y	1	3	3	9	12
+Joan Silverman	66 Glen View Drive	99900	344-81-4002	F	M	2	Professional	O	3133	1253	Y	Y	2	5	2	0	12
+Ernest Anthony	324 Green Street	99900	377-42-9321	M	M	2	Principal	O	3410	852	N	Y	1	3	1	9	12
+Fred Farmer	643 Mayfield Drive	99911	269-48-4135	M	M	2	Unknown	O	7368	1989	N	Y	3	5	0	8	12
+Robert Waxman	585 Hill Avenue	99939	187-95-9745	M	M	2	Principal	O	3175	857	N	Y	3	5	2	8	12
+Faith Fraser	353 River Road	99950	369-90-8298	F	W	0	Unknown	R	6615	2646	N	Y	5	5	1	4	12
+Robert Fraser	535 Park Avenue	99905	298-66-1776	M	M	2	Principal	O	7201	2520	N	Y	2	5	1	4	12
+Carol Coleman	82 Prospect Lane	99904	488-03-1659	F	M	2	Principal	O	6106	1648	N	Y	1	5	0	9	12
+Mike Brewster	736 Hill Avenue	99952	402-06-8892	M	M	0	Unknown	O	6030	2412	N	Y	1	4	0	9	12
+Ernest Jones	419 Park Avenue	99925	418-61-7702	M	M	2	Manager	O	8107	2432	N	Y	1	4	0	9	12
+Robert Anthony	816 Lake Street	99900	301-74-1075	M	M	1	Principal	O	7637	3054	N	Y	2	3	2	9	12
+Ernest Silverman	785 Forest St.	99900	495-33-3253	M	M	1	Principal	R	7467	2986	N	Y	1	2	3	9	12
+Samuel Steinman	451 Green Street	99912	315-14-5524	M	M	2	Principal	O	5220	1827	N	Y	2	5	0	9	12
+Terrence Silverman	887 Forest St.	99900	416-60-6797	M	M	1	Skilled	O	4692	1407	N	Y	1	4	0	9	11
+Gary Steinman	860 Broad Street	99904	491-38-1022	M	M	2	Manager	O	4067	1098	N	Y	1	4	3	9	12
+Robert Brown	817 Prospect Lane	99901	476-44-0133	M	S	1	Manager	O	5386	1346	Y	Y	2	2	0	8	12
+Ernest Smith	336 River Road	99900	142-25-1351	M	M	1	Unknown	O	3987	1594	N	Y	1	5	1	9	12
+Gary Brown	275 High View Road	99935	136-31-4609	M	S	1	Professional	O	3459	1383	Y	Y	2	4	0	6	12
+John Goldberg	414 Mayfield Drive	99900	340-53-7672	M	W	1	Unskilled	O	2587	905	N	Y	2	3	1	9	12
+Anthony Waxman	603 Forest St.	99900	161-21-6433	M	M	1	Unknown	O	2280	912	N	Y	1	5	1	8	12
+John Silverman	816 Cordova Lane	99900	125-11-1353	M	M	2	Professional	O	6112	1833	N	Y	2	4	0	7	12
+Anthony Farmer	396 Glen View Drive	99900	228-94-4677	M	M	2	Manager	O	7195	1942	N	Y	2	4	2	4	12
+Faith Waxman	638 Main Street	99906	266-30-0351	F	M	2	Professional	O	3309	1323	N	Y	2	5	0	7	12
+Robert Goldberg	127 Park Avenue	99905	345-88-9454	M	M	1	Professional	O	6352	2540	Y	Y	3	5	0	3	12
+Alex Lewis	152 Glen View Drive	99916	403-80-1366	M	M	1	Principal	O	8322	2496	Y	Y	3	5	1	6	12
+Alex Brown	182 High View Road	99914	357-70-2406	M	M	1	Manager	O	8054	2174	Y	Y	3	4	3	6	12
+Faith Smith	262 Glen View Drive	99932	470-41-6576	F	M	2	Principal	O	7987	2156	N	Y	2	2	1	7	12
+Robert Silverman	334 Prospect Lane	99904	280-84-4572	M	M	2	Professional	O	7864	2752	N	Y	2	2	0	8	12
+John Brewster	283 Cordova Lane	99914	239-80-0396	M	M	1	Manager	O	5807	2032	Y	Y	2	5	1	7	12
+Robert Farmer	363 Main Street	99909	317-46-2629	M	M	1	Manager	O	7578	2652	N	Y	3	5	2	2	12
+Gary Gorman	800 Hill Avenue	99926	443-68-3704	M	M	2	Principal	O	8411	2943	N	Y	1	4	0	9	12
+Carol Brown	531 Forest St.	99900	397-64-0185	F	M	1	Principal	O	6653	1995	N	Y	1	4	0	7	12
+Hope Fraser	888 Green Street	99900	378-07-5850	F	M	2	Principal	O	4474	1342	N	Y	1	2	3	9	12
+Carol Farmer	385 Maple Lane	99909	194-12-4059	F	M	0	Unknown	O	3771	1131	Y	Y	2	4	3	7	12
+Fred Smith	836 Green Street	99924	265-56-5740	M	W	0	Unknown	R	2040	816	N	Y	3	3	1	9	12
+Joan Lewis	92 Mayfield Drive	99922	455-11-0057	F	M	1	Principal	O	7632	2671	N	Y	3	4	2	1	12
+Mike Jones	231 Cordova Lane	99942	190-42-5992	M	M	2	Principal	O	7207	2882	N	Y	5	5	1	5	12
+Faith Baker	935 River Road	99950	181-23-5575	F	M	2	Principal	O	6781	2373	Y	Y	4	3	3	5	12
+Carol Steinman	754 Del Mar Blvd.	99960	230-51-2323	F	M	2	Principal	O	5608	1402	Y	Y	2	4	3	8	12
+Mike Coleman	393 Cordova Lane	99942	202-16-0522	M	M	2	Professional	O	8322	2496	N	Y	1	5	3	8	12
+Gary Coleman	83 Rose Court	99920	165-83-2369	M	S	1	Principal	O	8507	2126	N	Y	1	2	0	8	12
+Fred Brewster	475 Park Avenue	99905	405-79-7850	M	S	1	Professional	O	5735	1720	Y	Y	3	4	1	5	12
+Jerry Lewis	27 Cordova Lane	99942	489-94-9813	M	M	2	Professional	O	4019	1085	N	Y	2	3	3	8	12
+John Coleman	7 River Road	99910	296-65-9844	M	M	2	Principal	O	7734	3093	N	Y	3	5	0	6	12
+Carol Coleman	54 Rose Court	99900	137-87-9463	F	M	1	Principal	R	7286	2914	N	Y	2	5	3	6	12
+Hope Goldberg	20 Main Street	99906	265-99-7835	F	M	1	Unknown	O	7606	2281	N	Y	1	5	2	9	12
+Carol Silverman	99 Del Mar Blvd.	99945	401-02-0854	F	M	2	Principal	O	6646	1794	N	Y	1	5	0	9	12
+Terrence Farmer	949 High View Road	99907	434-16-4153	M	M	1	Principal	O	8693	3042	N	Y	1	5	2	9	12
+Gary Coriano	280 Park Avenue	99920	357-33-0542	M	S	1	Unknown	O	8007	3202	N	Y	1	5	0	9	12
+Mike Baker	906 Glen View Drive	99900	494-85-4371	M	M	1	Principal	O	7487	2620	N	Y	1	5	1	9	12
+Anthony Gorman	338 Main Street	99906	173-30-4463	M	M	1	Manager	O	6727	1816	N	Y	1	5	2	9	12
+Alex Gorman	87 Forest St.	99900	225-87-6905	M	M	2	Principal	O	6495	1948	N	Y	1	4	1	9	12
+Samuel Waxman	861 River Road	99930	283-88-7194	M	M	2	Professional	O	6531	1763	N	Y	1	4	0	9	12
+Carol Coleman	11 High View Road	99935	160-61-3241	F	M	1	Principal	O	5117	1790	N	Y	2	5	2	7	12
+Terrence Gorman	539 Cordova Lane	99970	431-24-3073	M	M	3	Principal	O	5410	1623	N	Y	3	2	2	7	12
+Alex Brewster	316 Rose Court	99916	111-01-0589	M	M	2	Professional	O	3155	1104	Y	Y	3	5	1	4	12
+John Smith	715 Hill Avenue	99913	116-42-2325	M	M	2	Professional	O	3996	999	N	Y	1	5	3	9	12
+Samuel Goldberg	443 Forest St.	99900	405-25-7951	M	M	2	Manager	O	3325	897	N	Y	1	5	3	9	12
+Hope Coriano	263 Forest St.	99900	372-51-8023	F	M	1	Principal	O	3520	1408	N	Y	1	5	0	9	12
+Samuel Fraser	976 Prospect Lane	99904	454-09-5278	M	M	1	Professional	O	3580	1432	N	Y	1	4	0	9	12
+Ernest Smith	844 Main Street	99912	445-42-0222	M	M	2	Skilled	O	3833	958	N	Y	1	2	1	9	12
+Mike Anthony	42 Mayfield Drive	99900	153-76-0670	M	M	1	Principal	O	3083	1079	N	Y	1	2	3	9	12
+Robert Lewis	800 River Road	99920	393-47-5374	M	M	1	Professional	O	2004	701	N	Y	1	5	1	9	12
+Faith Jones	969 Lake Street	99918	470-35-2736	F	M	2	Principal	O	2144	578	Y	Y	2	2	2	4	12
+Faith Lewis	451 Green Street	99912	250-67-7465	F	W	1	Unknown	O	2321	626	N	Y	1	2	3	9	12
+Fred Farmer	583 Mayfield Drive	99911	270-97-1081	M	S	1	Professional	O	2995	898	N	Y	1	2	1	9	12
+Anthony Coleman	377 High View Road	99935	322-52-4070	M	M	2	Principal	O	3675	1102	N	Y	2	3	2	8	12
+John Fraser	870 High View Road	99900	337-89-0029	M	M	1	Principal	O	8689	3041	N	Y	2	5	1	7	12
+Alex Goldberg	214 Cordova Lane	99956	426-04-0826	M	M	2	Principal	O	4355	1088	N	Y	1	5	2	8	12
+Anthony Coriano	653 Mayfield Drive	99955	281-03-2330	M	M	2	Principal	O	5881	2058	N	Y	2	4	1	2	12
+Anthony Lewis	368 Prospect Lane	99902	483-27-4597	M	M	1	Professional	O	7323	2929	Y	Y	8	5	0	5	12
+John Silverman	646 Rose Court	99916	420-18-0060	M	M	2	Principal	O	6786	2375	Y	Y	3	5	1	4	12
+Faith Coriano	936 Prospect Lane	99900	484-20-5563	F	M	1	Manager	O	6097	2133	Y	Y	4	5	3	5	12
+Jerry Coleman	974 Hill Avenue	99926	233-90-5099	M	M	1	Manager	O	7675	2686	N	Y	5	5	0	1	12
+Mike Brewster	974 Forest St.	99900	414-06-6793	M	M	2	Professional	O	6746	1821	N	Y	4	5	0	5	12
+Hope Fraser	626 Forest St.	99900	215-64-8980	F	M	2	Principal	O	6172	2468	N	Y	2	5	0	7	11
+Alex Silverman	195 High View Road	99921	376-34-3382	M	M	2	Manager	O	6948	2431	N	Y	1	5	0	9	12
+Jerry Gorman	364 Glen View Drive	99932	276-62-2766	M	M	2	Professional	O	7075	1910	N	Y	2	2	3	7	12
+John Gorman	476 Maple Lane	99918	314-85-1739	M	M	1	Professional	O	7231	2169	N	Y	1	2	0	3	12
+Robert Jones	623 Maple Lane	99945	412-42-0035	M	M	3	Unknown	O	6707	2012	N	Y	1	2	1	9	12
+Mike Jones	906 Broad Street	99900	299-22-1391	M	M	2	Principal	O	7248	2536	N	Y	1	1	2	9	12
+Fred Coleman	400 Lake Street	99924	343-28-8177	M	M	2	Professional	R	4289	1158	Y	Y	2	5	1	5	12
+Ernest Farmer	97 Park Avenue	99905	306-21-8381	M	M	1	Principal	O	3725	1117	Y	Y	2	5	2	5	12
+Ernest Fraser	648 High View Road	99900	468-29-6277	M	M	1	Principal	O	3473	937	N	Y	1	5	2	9	12
+Jerry Coleman	967 Mayfield Drive	99911	449-66-8813	M	M	1	Principal	O	3102	837	N	Y	1	5	3	9	12
+Hope Brewster	169 Glen View Drive	99908	442-56-5991	F	M	2	Principal	O	3517	1230	N	Y	1	4	3	0	12
+Alex Steinman	633 Maple Lane	99927	113-37-8311	M	M	1	Unknown	O	3102	1085	N	Y	1	4	3	9	12
+Gary Baker	201 Mayfield Drive	99933	361-21-2609	M	M	0	Unknown	O	2911	1164	N	Y	1	3	0	9	12
+Faith Smith	764 Del Mar Blvd.	99930	266-69-5865	F	M	2	Skilled	O	2547	764	N	Y	2	2	1	9	12
+Samuel Waxman	636 Main Street	99900	298-45-3953	M	S	2	Principal	O	8494	2548	N	Y	3	5	2	5	12
+Ernest Goldberg	329 Green Street	99960	192-12-8596	M	M	1	Principal	O	5602	2240	N	Y	2	4	2	9	12
+Ernest Farmer	158 Forest St.	99900	481-66-2425	M	M	2	Principal	O	5559	1945	N	Y	2	3	1	8	12
+Joan Gorman	834 Glen View Drive	99900	182-92-9548	F	M	2	Unskilled	O	3247	876	N	Y	1	4	2	7	12
+Jerry Jones	112 Maple Lane	99936	418-63-7265	M	S	1	Professional	O	3406	919	N	Y	1	3	3	9	12
+Carol Brown	897 Glen View Drive	99924	103-55-4004	F	M	1	Professional	O	6713	2685	N	Y	2	5	1	7	12
+Ernest Gorman	431 Rose Court	99920	492-32-5630	M	M	1	Unknown	O	5657	2262	Y	Y	3	5	0	2	12
+Mike Silverman	90 River Road	99900	114-02-4555	M	M	1	Unknown	O	5685	2274	Y	Y	2	3	3	4	12
+Fred Gorman	1014 Maple Lane	99900	271-33-2431	M	M	2	Unknown	O	3563	1247	Y	Y	2	5	3	8	12
+Fred Lewis	72 Mayfield Drive	99900	179-28-9600	M	M	1	Principal	O	8447	2956	N	Y	1	4	3	8	12
+Alex Silverman	635 Maple Lane	99945	432-28-7463	M	S	1	Unknown	O	3856	1542	N	Y	1	5	0	9	12
+Ernest Lewis	595 Cordova Lane	99914	312-17-6881	M	M	2	Principal	O	3232	969	N	Y	2	3	2	8	12
+Carol Silverman	750 High View Road	99900	286-48-1925	F	M	2	Manager	O	3536	1060	N	Y	2	2	3	8	12
+Mike Silverman	790 River Road	99940	306-87-3544	M	M	2	Principal	O	7670	2301	N	Y	3	5	0	6	12
+Hope Steinman	779 Green Street	99960	213-02-4274	F	M	2	Principal	R	8251	2887	N	Y	2	5	0	0	12
+Gary Steinman	472 Hill Avenue	99952	426-59-0167	M	M	1	Principal	O	8848	3539	N	Y	1	5	2	9	12
+Jerry Coriano	413 Broad Street	99910	492-52-2394	M	M	1	Principal	O	7574	3029	N	Y	1	5	0	9	12
+Alex Farmer	855 Cordova Lane	99942	482-71-2448	M	M	1	Manager	O	6285	1696	N	Y	1	5	3	9	12
+Ernest Smith	494 High View Road	99914	338-42-8642	M	M	2	Principal	O	7209	1946	N	Y	2	4	1	9	12
+Jerry Coleman	120 Rose Court	99900	421-04-3355	M	M	1	Unknown	O	6537	2287	Y	Y	2	4	0	9	12
+Samuel Brewster	59 Glen View Drive	99940	337-07-3528	M	S	1	Unknown	O	7001	2450	N	Y	2	3	0	9	12
+Alex Coleman	784 Broad Street	99908	101-16-8243	M	M	2	Principal	O	6257	1689	N	Y	1	3	0	9	12
+Hope Goldberg	591 Lake Street	99918	187-08-5819	F	M	2	Professional	O	4324	1297	N	Y	2	5	2	2	12
+Faith Steinman	158 Lake Street	99912	397-83-7151	F	M	2	Manager	O	5211	2084	N	Y	1	5	3	9	12
+Jerry Baker	651 Prospect Lane	99903	215-48-3810	M	S	1	Professional	O	5738	2295	N	Y	1	5	0	9	12
+Sarah Waxman	297 Prospect Lane	99903	475-97-2810	F	M	1	Unknown	O	5563	2225	N	Y	1	4	3	9	12
+Faith Steinman	187 Glen View Drive	99908	455-11-2884	F	M	2	Skilled	O	5497	1649	N	Y	1	2	0	9	12
+Fred Baker	385 Broad Street	99902	309-58-7651	M	M	1	Principal	O	3722	1488	N	Y	1	5	3	9	12
+Mike Steinman	361 Main Street	99903	223-79-6779	M	W	1	Skilled	O	3711	1001	N	Y	1	5	3	9	12
+Joan Smith	821 Hill Avenue	99965	275-82-6218	F	M	1	Unknown	O	3256	1302	N	Y	1	5	1	9	12
+Faith Coleman	36 Del Mar Blvd.	99900	248-12-0174	F	M	1	Professional	O	3350	1005	N	Y	1	5	2	9	12
+John Silverman	414 Maple Lane	99900	425-68-6874	M	M	1	Unknown	O	3633	1271	N	Y	3	4	1	9	12
+Gary Baker	262 Maple Lane	99936	476-24-1415	M	M	2	Professional	O	3157	947	N	Y	1	4	3	9	12
+Anthony Brown	498 Lake Street	99900	340-74-7797	M	M	1	Professional	O	3619	1085	N	Y	1	2	0	9	12

@@ -1,0 +1,5119 @@
+<Start>Predict
+1346908213				lMagic
+0					ucChange
+A03					caPrjVer
+{{					caProjDesc
+4					nFlag
+0					nProtLvl
+31					lCurStamp
+0					laChangeStamp[0]
+0					laChangeStamp[1]
+0					laChangeStamp[2]
+15					laChangeStamp[3]
+0					laChangeStamp[4]
+25					laChangeStamp[5]
+0					laChangeStamp[6]
+30					laChangeStamp[7]
+28					laChangeStamp[8]
+7					laChangeStamp[9]
+0					laUpdateStamp[0]
+17					laUpdateStamp[1]
+16					laUpdateStamp[2]
+19					laUpdateStamp[3]
+21					laUpdateStamp[4]
+26					laUpdateStamp[5]
+27					laUpdateStamp[6]
+31					laUpdateStamp[7]
+29					laUpdateStamp[8]
+23					laUpdateStamp[9]
+0					lUndoStamp
+0					nResume
+0					nNetDisable
+0					nVSDisable
+0					nCVSEnable
+2					analysisLevel
+0					nTTMode
+3					netSearchLevel
+3					variableSelectionLevel
+1					noiseLevel
+0					problemType
+0					nNInputs
+0					nInpCol
+0					nNOutputs
+0					nOutCol
+31					nTrnsIn
+1					nTrnsOut
+13					nNSelIn
+0					nCurFld
+1					nSelMaskSz
+2024337921				ulpSelMask[0]
+0					nVSNGens
+0					nVSX
+0					nNodesTrain
+0					nPart
+0					nTstEval
+{untitled{				caFlashName
+{{					caLang
+0					nCRLF
+0					nFileType
+0					lRandSeed
+1					nLdSvMode
+0					nHasHdr
+{{					caAscTrn
+{{					caAscTst
+{{					caAscVal
+0					lAscTrnDate
+0					lAscTstDate
+0					lAscValDate
+{C:\Documents and Settings\rde\My Documents\credit.npb{	caBinFile
+1					cKeepBin
+1173556053				lBinDate
+0					lLdBinDate
+0					lDRCDate
+{{					caLogNam
+1					nLogLevel
+<End>Predict
+<Start>PredDW
+! Date & Time: Sat Mar 10 14:53:08 2007
+!Version: A03
+<Start>ath
+1096036401				lATMagic
+A03					caATver
+18					sATField
+1					sLogLevel
+0					nRngNet
+0					nTestOutLvl
+1					aggregateTestType
+10					nTestCnfBins
+7					nTestErrBins
+1					nTestWhat[0]
+0					nTestWhat[1]
+0					nTestWhat[2]
+1					nTestWhat[3]
+1					nTestWhat[4]
+0					nTestWhat[5]
+0					nTestWhat[6]
+20.,1101004800				fTestErrTol
+0.1,1036831949				fTestCut[0]
+0.2,1045220557				fTestCut[1]
+0.3,1050253722				fTestCut[2]
+0.4,1053609165				fTestCut[3]
+0.5,1056964608				fTestCut[4]
+0.6,1058642330				fTestCut[5]
+0.7,1060320051				fTestCut[6]
+0.8,1061997773				fTestCut[7]
+0.9,1063675494				fTestCut[8]
+1.,1065353216				fTestCut[9]
+1					nTestSetGTab
+1					nTestSetKSThr
+0.5,1056964608				fKSStat
+0.5,1056964608				fKSThrsh
+5					nExplGran
+40					nExplMult
+10					lExplMin
+200					lExplMax
+95.,1119748096				fConfLevel
+1					cWSPrimary
+1					cWSSecondary
+2					cTTTrnMethod
+2					cTTTstMethod
+1					cTTValMethod
+0					cTTCompFlag
+0					cTTSmoothFlag
+1					lTTSmoothLvl
+0					cWSState
+5					sTTCompGran
+20					lTTSmall
+20.,1101004800				fWSValPct
+100.,1120403456				fWSPriPct
+100.,1120403456				fWSSecPct
+70.,1116471296				fTTTrnPct
+284					lTrnSz
+123					lTstSz
+407					lValSz
+407					lWrkSz
+407					lTTRecsAloc
+0.25,1048576000				fDomNomR
+1.e-002,1008981770			fDomDoneR
+-1.,-1082130432				fDomMin[ 0]
+1.,1065353216				fDomMax[ 0]
+1					sDomPrio[0]
+1.831564e-002,1016466094		fDomMin[ 1]
+20.085537,1101049646			fDomMax[ 1]
+2					sDomPrio[1]
+1.0184844,1065508274			fDomMin[ 2]
+20.085537,1101049646			fDomMax[ 2]
+4					sDomPrio[2]
+-3.,-1069547520				fDomMin[ 3]
+3.,1077936128				fDomMax[ 3]
+3					sDomPrio[3]
+-2.,-1073741824				fDomMin[ 4]
+1.5,1069547520				fDomMax[ 4]
+4					sDomPrio[4]
+0.31622776,1050798235			fDomMin[ 5]
+3.,1077936128				fDomMax[ 5]
+2					sDomPrio[5]
+0.56234133,1058010522			fDomMin[ 6]
+3.,1077936128				fDomMax[ 6]
+3					sDomPrio[6]
+0.1,1036831949				fDomMin[ 7]
+100.,1120403456				fDomMax[ 7]
+2					sDomPrio[7]
+1.e-002,1008981770			fDomMin[ 8]
+81.,1117913088				fDomMax[ 8]
+3					sDomPrio[8]
+0.1,1036831949				fDomMin[ 9]
+9.,1091567616				fDomMax[ 9]
+2					sDomPrio[9]
+0.31622776,1050798235			fDomMin[ 10]
+3.,1077936128				fDomMax[ 10]
+3					sDomPrio[10]
+0.56234133,1058010522			fDomMin[ 11]
+2.,1073741824				fDomMax[ 11]
+4					sDomPrio[11]
+0.1,1036831949				fDomMin[ 12]
+9.,1091567616				fDomMax[ 12]
+3					sDomPrio[12]
+1.e-002,1008981770			fDomMin[ 13]
+81.,1117913088				fDomMax[ 13]
+4					sDomPrio[13]
+-5.,-1063256064				fDomMin[ 14]
+5.,1084227584				fDomMax[ 14]
+2					sDomPrio[14]
+1.e-002,1008981770			fDomMin[ 15]
+0.99,1065185444				fDomMax[ 15]
+5					sDomPrio[15]
+-1.,-1082130432				fDomMin[ 16]
+1.,1065353216				fDomMax[ 16]
+5					sDomPrio[16]
+-1.,-1082130432				fDomMin[ 17]
+1.,1065353216				fDomMax[ 17]
+5					sDomPrio[17]
+-1.,-1082130432				fDomMin[ 18]
+1.,1065353216				fDomMax[ 18]
+5					sDomPrio[18]
+-1.,-1082130432				fDomMin[ 19]
+1.,1065353216				fDomMax[ 19]
+5					sDomPrio[19]
+-1.,-1082130432				fDomMin[ 20]
+1.,1065353216				fDomMax[ 20]
+5					sDomPrio[20]
+<End>ath
+<Start>rtf
+117					Rec 1
+117					Rec 2
+118					Rec 3
+117					Rec 4
+117					Rec 5
+117					Rec 6
+117					Rec 7
+118					Rec 8
+117					Rec 9
+118					Rec 10
+117					Rec 11
+117					Rec 12
+117					Rec 13
+118					Rec 14
+117					Rec 15
+117					Rec 16
+117					Rec 17
+118					Rec 18
+117					Rec 19
+117					Rec 20
+117					Rec 21
+117					Rec 22
+118					Rec 23
+117					Rec 24
+118					Rec 25
+117					Rec 26
+117					Rec 27
+117					Rec 28
+118					Rec 29
+117					Rec 30
+117					Rec 31
+117					Rec 32
+117					Rec 33
+118					Rec 34
+117					Rec 35
+118					Rec 36
+117					Rec 37
+118					Rec 38
+117					Rec 39
+117					Rec 40
+117					Rec 41
+117					Rec 42
+118					Rec 43
+118					Rec 44
+118					Rec 45
+117					Rec 46
+117					Rec 47
+117					Rec 48
+117					Rec 49
+117					Rec 50
+117					Rec 51
+117					Rec 52
+118					Rec 53
+117					Rec 54
+118					Rec 55
+117					Rec 56
+118					Rec 57
+117					Rec 58
+117					Rec 59
+118					Rec 60
+117					Rec 61
+117					Rec 62
+117					Rec 63
+118					Rec 64
+117					Rec 65
+117					Rec 66
+118					Rec 67
+117					Rec 68
+118					Rec 69
+117					Rec 70
+117					Rec 71
+117					Rec 72
+118					Rec 73
+117					Rec 74
+118					Rec 75
+117					Rec 76
+117					Rec 77
+117					Rec 78
+118					Rec 79
+117					Rec 80
+117					Rec 81
+117					Rec 82
+117					Rec 83
+118					Rec 84
+117					Rec 85
+117					Rec 86
+118					Rec 87
+117					Rec 88
+118					Rec 89
+117					Rec 90
+117					Rec 91
+117					Rec 92
+117					Rec 93
+118					Rec 94
+117					Rec 95
+117					Rec 96
+118					Rec 97
+117					Rec 98
+118					Rec 99
+117					Rec 100
+117					Rec 101
+117					Rec 102
+117					Rec 103
+117					Rec 104
+117					Rec 105
+117					Rec 106
+118					Rec 107
+118					Rec 108
+117					Rec 109
+117					Rec 110
+117					Rec 111
+118					Rec 112
+117					Rec 113
+117					Rec 114
+118					Rec 115
+117					Rec 116
+117					Rec 117
+117					Rec 118
+117					Rec 119
+117					Rec 120
+117					Rec 121
+118					Rec 122
+118					Rec 123
+117					Rec 124
+117					Rec 125
+117					Rec 126
+118					Rec 127
+117					Rec 128
+118					Rec 129
+117					Rec 130
+117					Rec 131
+117					Rec 132
+117					Rec 133
+117					Rec 134
+118					Rec 135
+118					Rec 136
+117					Rec 137
+117					Rec 138
+118					Rec 139
+117					Rec 140
+117					Rec 141
+117					Rec 142
+118					Rec 143
+117					Rec 144
+117					Rec 145
+118					Rec 146
+117					Rec 147
+117					Rec 148
+117					Rec 149
+118					Rec 150
+117					Rec 151
+117					Rec 152
+117					Rec 153
+118					Rec 154
+117					Rec 155
+118					Rec 156
+117					Rec 157
+117					Rec 158
+117					Rec 159
+118					Rec 160
+117					Rec 161
+118					Rec 162
+118					Rec 163
+118					Rec 164
+117					Rec 165
+117					Rec 166
+117					Rec 167
+117					Rec 168
+117					Rec 169
+117					Rec 170
+118					Rec 171
+117					Rec 172
+117					Rec 173
+118					Rec 174
+118					Rec 175
+117					Rec 176
+117					Rec 177
+117					Rec 178
+117					Rec 179
+117					Rec 180
+118					Rec 181
+118					Rec 182
+118					Rec 183
+117					Rec 184
+117					Rec 185
+117					Rec 186
+118					Rec 187
+117					Rec 188
+117					Rec 189
+117					Rec 190
+118					Rec 191
+117					Rec 192
+117					Rec 193
+117					Rec 194
+117					Rec 195
+117					Rec 196
+117					Rec 197
+118					Rec 198
+118					Rec 199
+118					Rec 200
+117					Rec 201
+117					Rec 202
+117					Rec 203
+118					Rec 204
+117					Rec 205
+117					Rec 206
+117					Rec 207
+118					Rec 208
+117					Rec 209
+117					Rec 210
+118					Rec 211
+117					Rec 212
+117					Rec 213
+118					Rec 214
+117					Rec 215
+117					Rec 216
+117					Rec 217
+118					Rec 218
+117					Rec 219
+117					Rec 220
+118					Rec 221
+117					Rec 222
+117					Rec 223
+118					Rec 224
+117					Rec 225
+117					Rec 226
+118					Rec 227
+117					Rec 228
+117					Rec 229
+117					Rec 230
+118					Rec 231
+117					Rec 232
+117					Rec 233
+118					Rec 234
+117					Rec 235
+117					Rec 236
+118					Rec 237
+117					Rec 238
+117					Rec 239
+117					Rec 240
+118					Rec 241
+117					Rec 242
+117					Rec 243
+118					Rec 244
+117					Rec 245
+117					Rec 246
+118					Rec 247
+117					Rec 248
+117					Rec 249
+117					Rec 250
+118					Rec 251
+117					Rec 252
+117					Rec 253
+118					Rec 254
+117					Rec 255
+118					Rec 256
+117					Rec 257
+118					Rec 258
+117					Rec 259
+117					Rec 260
+117					Rec 261
+118					Rec 262
+117					Rec 263
+117					Rec 264
+118					Rec 265
+117					Rec 266
+117					Rec 267
+118					Rec 268
+117					Rec 269
+117					Rec 270
+118					Rec 271
+117					Rec 272
+117					Rec 273
+117					Rec 274
+118					Rec 275
+117					Rec 276
+117					Rec 277
+118					Rec 278
+117					Rec 279
+117					Rec 280
+118					Rec 281
+117					Rec 282
+117					Rec 283
+117					Rec 284
+118					Rec 285
+117					Rec 286
+117					Rec 287
+118					Rec 288
+117					Rec 289
+117					Rec 290
+118					Rec 291
+117					Rec 292
+117					Rec 293
+117					Rec 294
+118					Rec 295
+117					Rec 296
+117					Rec 297
+117					Rec 298
+118					Rec 299
+117					Rec 300
+117					Rec 301
+118					Rec 302
+117					Rec 303
+117					Rec 304
+117					Rec 305
+118					Rec 306
+117					Rec 307
+117					Rec 308
+118					Rec 309
+117					Rec 310
+117					Rec 311
+118					Rec 312
+117					Rec 313
+117					Rec 314
+117					Rec 315
+118					Rec 316
+117					Rec 317
+117					Rec 318
+118					Rec 319
+117					Rec 320
+117					Rec 321
+118					Rec 322
+117					Rec 323
+117					Rec 324
+118					Rec 325
+117					Rec 326
+117					Rec 327
+117					Rec 328
+118					Rec 329
+117					Rec 330
+117					Rec 331
+118					Rec 332
+117					Rec 333
+117					Rec 334
+118					Rec 335
+117					Rec 336
+117					Rec 337
+117					Rec 338
+118					Rec 339
+117					Rec 340
+117					Rec 341
+118					Rec 342
+117					Rec 343
+117					Rec 344
+118					Rec 345
+117					Rec 346
+117					Rec 347
+117					Rec 348
+118					Rec 349
+117					Rec 350
+117					Rec 351
+118					Rec 352
+117					Rec 353
+117					Rec 354
+118					Rec 355
+117					Rec 356
+117					Rec 357
+117					Rec 358
+118					Rec 359
+117					Rec 360
+117					Rec 361
+117					Rec 362
+118					Rec 363
+117					Rec 364
+117					Rec 365
+118					Rec 366
+117					Rec 367
+117					Rec 368
+118					Rec 369
+117					Rec 370
+117					Rec 371
+117					Rec 372
+118					Rec 373
+117					Rec 374
+117					Rec 375
+118					Rec 376
+117					Rec 377
+117					Rec 378
+118					Rec 379
+117					Rec 380
+117					Rec 381
+117					Rec 382
+118					Rec 383
+117					Rec 384
+117					Rec 385
+118					Rec 386
+117					Rec 387
+117					Rec 388
+118					Rec 389
+117					Rec 390
+117					Rec 391
+117					Rec 392
+118					Rec 393
+117					Rec 394
+117					Rec 395
+118					Rec 396
+117					Rec 397
+117					Rec 398
+118					Rec 399
+117					Rec 400
+117					Rec 401
+117					Rec 402
+118					Rec 403
+117					Rec 404
+117					Rec 405
+118					Rec 406
+117					Rec 407
+<End>rtf
+<Start>atparm
+1146564657				lATMagic
+0					sFieldNo
+{local_defaults{			caFName
+0					sTranCnt
+0					cFieldSts
+1					cAnalState
+0					cTrnStatus
+1					cParmDelta
+0					sFldFlag
+0					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+53.,1112801280				fDistr[0]
+53.,1112801280				fDistr[1]
+48.,1111490560				fDistr[2]
+33.,1107558400				fDistr[3]
+13.,1095761920				fDistr[4]
+2.,1073741824				fDistr[5]
+1.,1065353216				fDistr[6]
+0.,0					fDistr[7]
+0.,0					fDistr[8]
+204.,1129054208				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+0					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+0					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.,0					rVSFreq
+<End>atparm
+<Start>atparm
+1146564657				lATMagic
+0					sFieldNo
+{NAME{					caFName
+0					sTranCnt
+9					cFieldSts
+0					cAnalState
+0					cTrnStatus
+1					cParmDelta
+2560					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+65					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+407					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.,0					rVSFreq
+<End>atparm
+<Start>atparm
+1146564657				lATMagic
+1					sFieldNo
+{ADDRESS{				caFName
+0					sTranCnt
+9					cFieldSts
+0					cAnalState
+0					cTrnStatus
+1					cParmDelta
+2560					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+65					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+407					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.,0					rVSFreq
+<End>atparm
+<Start>atparm
+1146564657				lATMagic
+2					sFieldNo
+{ZIP{					caFName
+2					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+99900.,0,1090020288			dMin
+99975.,0,1090021488			dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+3					sKeyLen
+2					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.33870968,1051552603			rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.32258064,1051011402			rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+99900.,1203969536			fEFFMin
+99970.,1203978496			fEFFMax
+-0.49762496,-1090598733			fEFFTAvg
+-0.6857143,-1087403271			fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.6677239,1059778548			fOutScl
+0.33221886,1051334807			fOutOff
+2.8571429e-002,1021972129		fInScl
+-2855.2856,-986549102			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+1					transform code: Log
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+1.831564e-002,1016466094		fInMin
+0.6454163,1059404289			fInMax
+99900.,1203969536			fEFFMin
+99975.,1203979136			fEFFMax
+-7.884117e-002,-1113491589		fEFFTAvg
+4.9040113e-002,1028185673		fEFFTMed
+-4.,-1065353216				fDomInvMin
+0.52043885,1057307515			fOutScl
+1.2278782,1067264797			fOutOff
+8.361342e-003,1007222275		fInScl
+-835.2798,-1001336344			fInOff
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+3					sFieldNo
+{SSN{					caFName
+0					sTranCnt
+9					cFieldSts
+0					cAnalState
+0					cTrnStatus
+1					cParmDelta
+2560					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+65					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.,0					rVSFreq
+<End>atparm
+<Start>atparm
+1146564657				lATMagic
+4					sFieldNo
+{SEX{					caFName
+1					sTranCnt
+0					cFieldSts
+0					cAnalState
+1					cTrnStatus
+1					cParmDelta
+6					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+86					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+1.6129032e-002,1015292168		rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+{f{					caStrVal
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+5					sFieldNo
+{MARITALSTATUS{				caFName
+3					sTranCnt
+0					cFieldSts
+0					cAnalState
+9					cTrnStatus
+1					cParmDelta
+2					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+86					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+6.451613e-002,1032069384		rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+3.2258064e-002,1023680776		rVSFreq
+{m{					caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+3.2258064e-002,1023680776		rVSFreq
+{s{					caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+{w{					caStrVal
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+6					sFieldNo
+{CHILDREN{				caFName
+2					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+86					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+3.,0,1074266112				dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+54					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.33870968,1051552603			rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+0.,0					fEFFMin
+3.,1077936128				fEFFMax
+-0.14332515,-1106066476			fEFFTAvg
+-0.33333334,-1096111445			fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.87464184,1063250055			fOutScl
+0.12535815,1040211427			fOutOff
+0.6666667,1059760811			fInScl
+-1.,-1082130432				fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+5					transform code: Pwr2
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.33870968,1051552603			rVSFreq
+0.90330297,1063730909			fInMin
+1.4903781,1069466806			fInMax
+0.,0					fEFFMin
+3.,1077936128				fEFFMax
+5.1729128e-002,1028907500		fEFFTAvg
+0.22432873,1046853230			fEFFTMed
+0.1,1036831949				fDomInvMin
+1.3532128,1068316180			fOutScl
+-2.1041625,-1073304935			fOutOff
+-0.19569172,-1102552215			fInScl
+1.4903781,1069466806			fInOff
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+7					sFieldNo
+{OCCUPATION{				caFName
+6					sTranCnt
+0					cFieldSts
+0					cAnalState
+9					cTrnStatus
+1					cParmDelta
+2					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+3					sKeyBX
+0					sKeyLX
+2					sKeyLen
+3					sKeyType
+0					sKeyBins
+5					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.88709676,1063459014			rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.20967741,1045869997			rVSFreq
+{manager{				caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.516129,1057235208			rVSFreq
+{principal{				caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.,0					rVSFreq
+{professional{				caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+{skilled{				caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+2					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.5483871,1057776409			rVSFreq
+{unknown{				caStrVal
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+3					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.48387095,1056423407			rVSFreq
+{unskilled{				caStrVal
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+8					sFieldNo
+{HOMEOWNERSHIP{				caFName
+1					sTranCnt
+0					cFieldSts
+0					cAnalState
+1					cTrnStatus
+1					cParmDelta
+6					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+5					sKeyBX
+0					sKeyLX
+1					sKeyLen
+3					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+4.8387095e-002,1028010380		rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+4.8387095e-002,1028010380		rVSFreq
+{r{					caStrVal
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+9					sFieldNo
+{INCOME{				caFName
+2					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+29697					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+2004.,0,1084182528			dMin
+8975.,0,1086424960			dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+6					sKeyBX
+0					sKeyLX
+3					sKeyLen
+2					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+1.,1065353216				rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.38709676,1053176204			rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+2004.,1157267456			fEFFMin
+8975.,1175206912			fEFFMax
+-0.33281687,-1096128775			fEFFTAvg
+-0.577679,-1089215803			fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.75029063,1061163788			fOutScl
+0.24970943,1048556500			fOutOff
+2.8690288e-004,966159220		fInScl
+-1.5749534,-1077307373			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+1					transform code: Log
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.9516129,1064541415			rVSFreq
+1.8996177,1072899756			fInMin
+19.771986,1100885255			fInMax
+2004.,1157267456			fEFFMin
+8975.,1175206912			fEFFMax
+1.6981227e-002,1015749687		fEFFTAvg
+-6.586081e-002,-1115233784		fEFFTMed
+-4.,-1065353216				fDomInvMin
+0.8394917,1062660334			fOutScl
+-1.538662,-1077611808			fOutOff
+2.563817e-003,992478646			fInScl
+-3.2382717,-1068548136			fInOff
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+10					sFieldNo
+{EXPENSES{				caFName
+3					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+29697					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+506.,0,1082105856			dMin
+3541.,0,1084992000			dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+8.064516e-002,1034234186		rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+506.,1140654080				fEFFMin
+3202.,1162354688			fEFFMax
+-0.33274817,-1096131080			fEFFTAvg
+-0.541543,-1089822064			fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.7503293,1061164437			fOutScl
+0.24967076,1048553905			fOutOff
+7.4183976e-004,977434630		fInScl
+-1.375371,-1078981592			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+14					transform code: tanh
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+-0.15625,-1105199104			fInMin
+2.5,1075838976				fInMax
+549.,1141456896				fEFFMin
+3541.,1163743232			fEFFMax
+3.5045054e-002,1024428903		fEFFTAvg
+-0.11479992,-1108665288			fEFFTMed
+-0.9999092,-1082131955			fDomInvMin
+1.6926022,1071163184			fOutScl
+-0.73766243,-1086531726			fOutOff
+8.877841e-004,979941935			fInScl
+-0.64364344,-1088109103			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+24					transform code: fzlft
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+4.8387095e-002,1028010380		rVSFreq
+506.,1140654080				fFuzyLft
+506.,1140654080				fFuzyCtr
+549.,1141456896				fFuzyRgt
+0.,0					fFuzyHgt
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+11					sFieldNo
+{CHECKING{				caFName
+1					sTranCnt
+0					cFieldSts
+0					cAnalState
+1					cTrnStatus
+1					cParmDelta
+6					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+86					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.37096775,1052635004			rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.37096775,1052635004			rVSFreq
+{y{					caStrVal
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+12					sFieldNo
+{SAVINGS{				caFName
+1					sTranCnt
+0					cFieldSts
+0					cAnalState
+9					cTrnStatus
+1					cParmDelta
+6					sFldFlag
+128					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+0.,0,0					dMax
+407					lRecsCt
+0					lMissCt
+0					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+407					lLitCt
+0					lESPCt
+0					lDateCt
+9					sKeyBX
+0					sKeyLX
+1					sKeyLen
+3					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+1.,1065353216				rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+30					transform code: islit
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.,1065353216				rVSFreq
+{y{					caStrVal
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+13					sFieldNo
+{MSTRCARD{				caFName
+3					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+1.,0,1072693248				dMin
+8.,0,1075838976				dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+10					sKeyBX
+0					sKeyLX
+3					sKeyLen
+2					sKeyType
+0					sKeyBins
+1					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.7419355,1061023612			rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.5,1056964608				rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+1.,1065353216				fEFFMin
+5.,1084227584				fEFFMax
+-0.70864195,-1087018609			fEFFTAvg
+-1.,-1082130432				fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.58526015,1058395036			fOutScl
+0.41473988,1054103753			fOutOff
+0.5,1056964608				fInScl
+-1.5,-1077936128			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+14					transform code: tanh
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.4516129,1055341006			rVSFreq
+2.5,1075838976				fInMin
+5.,1084227584				fInMax
+1.,1065353216				fEFFMin
+5.,1084227584				fEFFMax
+-0.37834078,-1094601246			fEFFTAvg
+-0.99998695,-1082130651			fEFFTMed
+-0.9999092,-1082131955			fDomInvMin
+109.14105,1121601592			fOutScl
+-108.131134,-1026014428			fOutOff
+0.625,1059061760			fInScl
+1.875,1072693248			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+25					transform code: fzrgt
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+4.8387095e-002,1028010380		rVSFreq
+5.,1084227584				fFuzyLft
+8.,1090519040				fFuzyCtr
+8.,1090519040				fFuzyRgt
+0.,0					fFuzyHgt
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+14					sFieldNo
+{VISA{					caFName
+2					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+86					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+1.,0,1072693248				dMin
+5.,0,1075052544				dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+0					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+4.8387095e-002,1028010380		rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.6129032e-002,1015292168		rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+1.,1065353216				fEFFMin
+5.,1084227584				fEFFMax
+0.36977887,1052595112			fEFFTAvg
+0.5,1056964608				fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.73004484,1060824120			fOutScl
+-0.26995516,-1098238064			fOutOff
+0.5,1056964608				fInScl
+-1.5,-1077936128			fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+7					transform code: Rt2
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+86					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+3.2258064e-002,1023680776		rVSFreq
+0.1,1036831949				fInMin
+100.,1120403456				fInMax
+1.,1065353216				fEFFMin
+5.,1084227584				fEFFMax
+-0.16114867,-1104870360			fEFFTAvg
+-3.1107137e-002,-1124150171		fEFFTMed
+0.31622776,1050798235			fDomInvMin
+0.17786781,1043735291			fOutScl
+-0.7786782,-1085843596			fOutOff
+-24.975,-1043870515			fInScl
+124.975,1123676979			fInOff
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+15					sFieldNo
+{AMEX{					caFName
+2					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+3.,0,1074266112				dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+227					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+13					sKeyBX
+0					sKeyLX
+3					sKeyLen
+2					sKeyType
+0					sKeyBins
+1					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+1.,1065353216				rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.8548387,1062917814			rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+0.,0					fEFFMin
+3.,1077936128				fEFFMax
+-0.41687143,-1093308372			fEFFTAvg
+-1.,-1082130432				fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.7057803,1060417029			fOutScl
+0.29421964,1050059765			fOutOff
+0.6666667,1059760811			fInScl
+-1.,-1082130432				fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+1					transform code: Log
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+1.,1065353216				rVSFreq
+1.8996177,1072899756			fInMin
+19.771986,1100885255			fInMax
+0.,0					fEFFMin
+3.,1077936128				fEFFMax
+-0.2806268,-1097879983			fEFFTAvg
+-1.,-1082130432				fEFFTMed
+-4.,-1065353216				fDomInvMin
+0.66666365,1059760760			fOutScl
+-0.9895017,-1082306564			fOutOff
+5.957456,1086235515			fInScl
+1.8996177,1072899756			fInOff
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+16					sFieldNo
+{MERCHANT{				caFName
+2					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+1					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+1					cDTrLogical2
+1					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+0					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+1					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+1					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+-1.,-1082130432				fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+9.,0,1075970048				dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+78					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+16					sKeyBX
+0					sKeyLX
+3					sKeyLen
+2					sKeyType
+0					sKeyBins
+1					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+1.,1065353216				rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+0					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.9516129,1064541415			rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+0.,0					fEFFMin
+9.,1091567616				fEFFMax
+0.4048594,1053772219			fEFFTAvg
+1.,1065353216				fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.711815,1060518274			fOutScl
+-0.288185,-1097626372			fOutOff
+0.22222222,1046711865			fInScl
+-1.,-1082130432				fInOff
+<End>fti
+<Start>fti
+1179922481				lFTIMagic
+1					transform code: Log
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+1					cCBRX
+-1.,-1082130432				fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.983871,1065082616			rVSFreq
+1.831564e-002,1016466094		fInMin
+0.9589666,1064664790			fInMax
+0.,0					fEFFMin
+9.,1091567616				fEFFMax
+-0.20263834,-1102086035			fEFFTAvg
+-0.9999999,-1082130434			fEFFTMed
+-4.,-1065353216				fDomInvMin
+0.4201536,1054285407			fOutScl
+1.0176041,1065500890			fOutOff
+-0.104516774,-1110045468		fInScl
+0.9589666,1064664790			fInOff
+<End>fti
+<Start>atparm
+1146564657				lATMagic
+0					sFieldNo
+{PAYMENTHISTORY{			caFName
+1					sTranCnt
+0					cFieldSts
+0					cAnalState
+10					cTrnStatus
+1					cParmDelta
+25601					sFldFlag
+16					sFldType
+40					sFldQuant
+2					cTrnLvl
+0					cIsInput
+0					cIsSkip
+1					cElDate
+0					cElDateID
+1					cElSeqID
+0					cElSeqID2
+1					cElMiss
+1					cElNAN
+0					cElNC
+0					cElNCAnal
+0					cElDupTail
+0					cElDupAll
+0					cAssumeReal
+0					cDTrLogical2
+0					cDTrLogical3
+0					cDTrIntEnum
+0					cDTrRealEnum
+7					cRealCat
+1					cDTrOther
+1					cCTrNC
+2					cCTrCnt
+1					cCTrCntOut
+0					cCTrProb
+1					cCTrFlag[0]
+1					cCTrFlag[1]
+1					cCTrFlag[2]
+1					cCTrFlag[3]
+0					cCTrFlag[4]
+1					cCTrFlag[5]
+0					cCTrFlag[6]
+1					cCTrFlag[7]
+0					cCTrFlag[8]
+1					cCTrFlag[9]
+1					cCTrFlag[10]
+0					cCTrFlag[11]
+1					cCTrFlag[12]
+0					cCTrFlag[13]
+0					cCTrFlag[14]
+1					cCTrFlag[15]
+0					cCTrFlag[16]
+0					cCTrFlag[17]
+0					cCTrFlag[18]
+0					cCTrFlag[19]
+0					cCTrFlag[20]
+0					cCTrFuzzyMesh
+0					cCTrFuzzyThrm
+5					cMeshSize
+0					cCTrQuintile
+1					cCTrOutlier
+1					cCTrNan
+1					cSTrEnum2
+1					cSTrEnum3
+1					cSTrEnum
+1					cSTrOther
+1					cSclType
+0					cScrInDistr
+0					cScrOutDistr
+1					cScrNegF
+0					cScrLinBins
+1					cScrLinDev
+0					cScrLinCorr
+1					cScrLinKS
+10.,1092616192				fDistr[0]
+10.,1092616192				fDistr[1]
+10.,1092616192				fDistr[2]
+10.,1092616192				fDistr[3]
+10.,1092616192				fDistr[4]
+10.,1092616192				fDistr[5]
+10.,1092616192				fDistr[6]
+10.,1092616192				fDistr[7]
+10.,1092616192				fDistr[8]
+10.,1092616192				fDistr[9]
+5.e-002,1028443341			fDetThr
+0.1,1036831949				fMissThr
+1.e-002,1008981770			fCatCut
+1.e-002,1008981770			fDevAvgThr
+5.e-002,1028443341			fNaNThr
+0.,0					fNCValue
+0.1,1036831949				fNCThr
+1.e-002,1008981770			fOutThr
+10.,1092616192				fOutDense
+5.e-002,1028443341			fEnumCut
+0.,0					fRealMin
+1.,1065353216				fRealMax
+0.,0					fRealMiss
+0.,0					fLogicalMin
+1.,1065353216				fLogicalMax
+0.,0,0					dMin
+12.,0,1076363264			dMax
+407					lRecsCt
+0					lMissCt
+407					lNumCt
+9					lNCCt
+0					lFltCt
+0					lNaNCt
+0					lLitCt
+0					lESPCt
+0					lDateCt
+0					sKeyBX
+0					sKeyLX
+0					sKeyLen
+1					sKeyType
+0					sKeyBins
+0					sKeyTrnX
+0.,0					fExtrLim
+0					sVSGroupNum
+2					sVSMinReqd
+30					sVSMaxReqd
+0.,0					rVSFreq
+<End>atparm
+<Start>fti
+1179922481				lFTIMagic
+0					transform code: Linear
+1					scale mode: 0=range, 1=mean; 2=median; 32=skip
+0					cIsSkip
+0					cCBRX
+0.,0					fTgtMin
+1.,1065353216				fTgtMax
+0.,0					fTgtMiss
+0.,0					rVSFreq
+-1.,-1082130432				fInMin
+1.,1065353216				fInMax
+0.,0					fEFFMin
+12.,1094713344				fEFFMax
+0.6054464,1058733705			fEFFTAvg
+0.9166667,1063955115			fEFFTMed
+-1.,-1082130432				fDomInvMin
+0.41291848,1054042637			fOutScl
+0.41291848,1054042637			fOutOff
+0.16666667,1042983595			fInScl
+-1.,-1082130432				fInOff
+<End>fti
+<End>PredDW
+<Start>PredNet
+<Start>Net
+1346908213				lMagic
+0					ucChange
+<Start>NetParams
+1					nLogLevel
+13					nIn
+30					nHid
+1					nOut
+1					nLearn
+2					ucaHidTran[0]
+6					ucaHidTran[1]
+6					ucaHidTran[2]
+6					ucaHidTran[3]
+6					ucaHidTran[4]
+6					ucaHidTran[5]
+0					ucaHidTran[6]
+1					ucaHidTran[7]
+0.,0					rHidFPOff
+1					ucOutTran
+1					ucOutTranNom
+1					ucNetLinAlt
+0.2,1045220557				rOutFPOff
+0.,0					nErrF
+2.,1073741824				raNSE[0]
+1.,1065353216				raNSE[1]
+0.5,1056964608				raNSE[2]
+3					nTestEval
+2					nMPEDegree
+0.2,1045220557				rEvalErrTol
+20.,1101004800				rEvalPrcntil
+512					nEvalChunk
+2.,1073741824				rHidNseFact
+1.,1065353216				rOutNseFact
+40.,1109393408				rWtLimit
+0.5,1056964608				rWtReduce
+0					nNoiseTune
+0					nNTDone
+5					nOutPassMin
+5					nHidPassMin
+2.,1073741824				rOutPassFct
+4.,1082130432				rHidPassFct
+3					nStbCntMx1
+2					nStbCntMx2
+5					nStbCntMx3
+0.999994993209839,-2147483648,1072693237	dStbThr1
+0.999994993209839,-2147483648,1072693237	dStbThr2
+0.999994993209839,-2147483648,1072693237	dStbThr3
+2					nNodePat
+1.e-003,981668463			rNodeTol
+1					nNetMin
+1					nNetMax
+1					nNetPat
+1.e-003,981668463			rNetTol
+3					nCandMin
+6					nCandMax
+2					nCandPat
+1.e-003,981668463			rCandTol
+2					nCandOut
+1					nCandIterF
+0					nSaveLastF
+1					nVMin
+2					nVMax
+0					nRandType
+1.,1065353216				rRandMult
+1					ucWtLimit
+0					ucStchGrad
+1					ucWtDecay
+0					ucFreqComp
+1					ucDirect
+1					ucCascaded
+0					lMaxTrnRecs
+<Start>NetKF
+0.,0					rPNAlpha
+0.95,1064514355				rPNDecay
+0.,0					rWtMean
+1000.,1148846080			rMaxVar
+<End>NetKF
+<Start>NetAG
+50					nMaxLSIters
+1.e-005,925353388			rLSTolerance
+10.,1092616192				rCndAlpha
+10.,1092616192				rOutAlpha
+5.e-004,973279855			rCndWtDec0
+1.e-004,953267991			rOutWtDec0
+100.,1120403456				rCndLCoef
+1.e-002,1008981770			rOutLCoef
+0.1,1036831949				rStochGrad
+<End>NetAG
+<End>NetParams
+<Start>NetState
+5					nStabCnt
+2					nNodePatCnt
+0.13542189,1040886793			rNodeTolRef
+0					nNetPatCnt
+0.13542189,1040886793			rNetTolRef
+1					nNetCur
+3					nVCur
+2					nCurCX
+0.13542189,1040886793			rCandTolRef
+3					nCandPatCnt
+1					nCandBestDim
+0.13611694,1040933437			rCandBestEval
+160					lFlag
+1					nLrnMode
+1					nFastMath
+1					nLinPost
+0					nMode
+2					nEst
+0.13542189,1040886793			rBest
+0.8645781,1063081214			rPubEval
+0.23570226,1047616495			rWtInit
+284					lNTrnRecs
+0.,0					rCndWtDecay
+0.,0					rOutWtDecay
+1.487052,1069438904			rCndWtRegulrz
+0.58038926,1058313316			rOutWtRegulrz
+0.7417482,1061020470			rWtCompEval
+7.074275,1088577654			rCndLCoefNrm
+0.48898935,1056595152			rOutLCoefNrm
+<End>NetState
+1					Architecture
+<Start>Architecture
+<Start>HiddenActivations
+-0.5804024,-1089170112
+-5.9532326e-002,-1116481493
+<End>HiddenActivations
+<Start>OutputActivations
+0.72460896,1060732921
+<End>OutputActivations
+<Start>OutputSummations
+-0.860974,-1084462901
+<End>OutputSummations
+<Start>OutputErrors
+0.101228,1036996768
+<End>OutputErrors
+<Start>ErrorGrads
+-3.550744e-002,-1122930624
+<End>ErrorGrads
+<Start>OutputDerivs
+0.,0
+<End>OutputDerivs
+<Start>OutputScale
+1.0395811,1065685246
+<End>OutputScale
+<Start>OutputOffset
+-1.4483419e-002,-1133687843
+<End>OutputOffset
+<Start>HiddenSummations
+-0.6630693,-1087783191
+-5.9602804e-002,-1116462574
+<End>HiddenSummations
+<Start>HiddenFlags
+2
+2
+<End>HiddenFlags
+<Start>OutputWeights
+<Start>NextPE
+-1.2540321,-1079999456
+-0.3153,-1096716544
+0.38225904,1053013877
+-6.205449e-002,-1115804455
+3.638041e-002,1024787360
+-0.83037,-1084976351
+0.6648606,1059730510
+-0.77095056,-1085973244
+1.8545521,1072521719
+-0.56029624,-1089507437
+-0.7621968,-1086120108
+2.0622501,1074002920
+1.7468446,1071618203
+1.4075477,1068771974
+1.3097469,1067951561
+-1.3413079,-1079267334
+<End>NextPE
+<End>OutputWeights
+<Start>BiasToEstWeights
+-0.73310024,-1086608267
+4.900038e-002,1028175007
+<End>BiasToEstWeights
+<Start>InputToEstWeights
+0.2447301,1048222343
+0.5870799,1058425566
+0.18496925,1044211860
+-0.4540632,-1092060423
+0.77916753,1061648262
+2.1739812,1074471554
+0.14585432,1041586902
+-1.3778983,-1078960391
+2.3153908,1075064669
+-1.6322709,-1076826559
+-2.7723837,-1070502212
+0.32432044,1051069780
+-0.81485015,-1085236731
+-2.5923528e-002,-1126933100
+-9.003892e-002,-1111988653
+-4.146257e-002,-1121332056
+-0.36291122,-1095118976
+7.631782e-002,1033653380
+0.3473485,1051842474
+0.4720704,1056027446
+-0.22373487,-1100670271
+0.20096856,1045285556
+0.62993914,1059144625
+-0.7848098,-1085740724
+0.14781216,1041718290
+-9.022355e-003,-1139551616
+<End>InputToEstWeights
+<Start>CascadedWeights
+0.,0
+<End>CascadedWeights
+<End>Architecture
+<End>Net
+<End>PredNet
+<Start>PredVS
+<Start>VarSelection
+1346908213				lMagic
+0					ucChange
+<Start>VSParams
+1					nLogLevel
+0					nNetLogLvl
+1					ucLinVS
+0					ucRedoFit
+0					ucMutSame
+2.,1073741824				rPopFact
+31					nNumVar
+50					nMaxGen
+0.7,1060320051				rProbCmb
+1.,1065353216				rMutFact
+5.e-002,1028443341			rEliteFrct
+7					nPatience
+1.e-003,981668463			rTolerance
+2					nMinCard0
+6					nMaxCard0
+2					nMinCard
+30					nMaxCard
+2					nPar1Sel
+0					nPar2Sel
+100					nFitQuant
+1.4,1068708659				rRankBias
+3					nFlag
+1					nOut
+1.e-003,981668463			rIllCond
+1					ucOutTran
+2					nMPEDegree
+3					nNumCVSets
+<Start>VSCascade
+10					nCVSMaxSteps
+5					nCVSStepIter
+2					nCVSMinDelta
+15					nCVSMaxGener
+4					nCVSPatience
+2.e-003,990057071			rCVSTolerance
+35.,1108082688				rCVSPctPopul
+30.,1106247680				rCVSPctIncld
+<End>VSCascade
+<End>VSParams
+<Start>VSState
+0					nFlag
+43					nCurGen
+0.14902973,1041800000			rBestFit
+7					nPatCnt
+0.16929042,1043159672			rTolRef
+<End>VSState
+<Start>VSCurPop
+62					nSlot
+3					nFlag
+1.4,1068708659				rRankBias
+<End>VSCurPop
+<Start>VSNxtPop
+0					nSlot
+0					nFlag
+1.4,1068708659				rRankBias
+<End>VSNxtPop
+1					Individuals
+<Start>PopulationSize
+62					nPopSize
+62					nPopSize
+<End>PopulationSize
+<Start>VSIndividuals
+<Start>CurIndivs
+<Start>Ind
+0.14902973,1041800000			rFitness
+0.4015585,1053661459			rAdjFit
+1015801399				rNrmFit
+13					nCard
+38					nSet
+2024337921
+<End>Ind
+<Start>Ind
+0.14631136,1041617573			rFitness
+0.4059902,1053810163			rAdjFit
+1015902584				rNrmFit
+14					nCard
+42					nSet
+2024403457
+<End>Ind
+<Start>Ind
+0.15821584,1042416469			rFitness
+0.38727292,1053182115			rAdjFit
+1015475229				rNrmFit
+9					nCard
+42					nSet
+2016461312
+<End>Ind
+<Start>Ind
+0.1585227,1042437062			rFitness
+0.38681322,1053166690			rAdjFit
+1015464733				rNrmFit
+9					nCard
+42					nSet
+2016481792
+<End>Ind
+<Start>Ind
+0.1585227,1042437062			rFitness
+0.38681322,1053166690			rAdjFit
+1015464733				rNrmFit
+9					nCard
+41					nSet
+2016481792
+<End>Ind
+<Start>Ind
+0.1582379,1042417950			rFitness
+0.3872398,1053181004			rAdjFit
+1015474473				rNrmFit
+10					nCard
+42					nSet
+2020676096
+<End>Ind
+<Start>Ind
+0.1582379,1042417950			rFitness
+0.3872398,1053181004			rAdjFit
+1015474473				rNrmFit
+10					nCard
+41					nSet
+2020676096
+<End>Ind
+<Start>Ind
+0.15859282,1042441768			rFitness
+0.38670835,1053163171			rAdjFit
+1015462338				rNrmFit
+10					nCard
+42					nSet
+2023817768
+<End>Ind
+<Start>Ind
+0.15867667,1042447395			rFitness
+0.386583,1053158965			rAdjFit
+1015459476				rNrmFit
+10					nCard
+42					nSet
+2016482048
+<End>Ind
+<Start>Ind
+0.15880418,1042455952			rFitness
+0.38639253,1053152574			rAdjFit
+1015455127				rNrmFit
+10					nCard
+42					nSet
+2015429505
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015615893				rNrmFit
+11					nCard
+42					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015615893				rNrmFit
+11					nCard
+40					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015615893				rNrmFit
+11					nCard
+39					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015615893				rNrmFit
+11					nCard
+39					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.15625873,1042285130			rFitness
+0.3902306,1053281358			rAdjFit
+1015542759				rNrmFit
+11					nCard
+42					nSet
+2023830272
+<End>Ind
+<Start>Ind
+0.15696676,1042332645			rFitness
+0.3891554,1053245280			rAdjFit
+1015518209				rNrmFit
+11					nCard
+42					nSet
+2029060609
+<End>Ind
+<Start>Ind
+0.1570552,1042338580			rFitness
+0.38902152,1053240788			rAdjFit
+1015515153				rNrmFit
+11					nCard
+41					nSet
+2016490240
+<End>Ind
+<Start>Ind
+0.15865706,1042446079			rFitness
+0.3866123,1053159948			rAdjFit
+1015460145				rNrmFit
+11					nCard
+41					nSet
+2029093376
+<End>Ind
+<Start>Ind
+0.15954335,1042505557			rFitness
+0.38529208,1053115649			rAdjFit
+1015430002				rNrmFit
+11					nCard
+42					nSet
+2044822016
+<End>Ind
+<Start>Ind
+0.15465115,1042177247			rFitness
+0.3926941,1053364019			rAdjFit
+1015599005				rNrmFit
+12					nCard
+42					nSet
+2082579328
+<End>Ind
+<Start>Ind
+0.15485236,1042190750			rFitness
+0.39238405,1053353616			rAdjFit
+1015591927				rNrmFit
+12					nCard
+42					nSet
+2024878720
+<End>Ind
+<Start>Ind
+0.15489961,1042193921			rFitness
+0.3923113,1053351175			rAdjFit
+1015590266				rNrmFit
+12					nCard
+42					nSet
+2029040128
+<End>Ind
+<Start>Ind
+0.1550767,1042205805			rFitness
+0.39203894,1053342036			rAdjFit
+1015584047				rNrmFit
+12					nCard
+42					nSet
+2019635842
+<End>Ind
+<Start>Ind
+0.15897541,1042467443			rFitness
+0.38613704,1053144001			rAdjFit
+1015449294				rNrmFit
+12					nCard
+42					nSet
+1885450881
+<End>Ind
+<Start>Ind
+0.15473965,1042183186			rFitness
+0.39255765,1053359441			rAdjFit
+1015595890				rNrmFit
+13					nCard
+42					nSet
+2028307136
+<End>Ind
+<Start>Ind
+0.15497132,1042198733			rFitness
+0.39220098,1053347473			rAdjFit
+1015587747				rNrmFit
+13					nCard
+42					nSet
+2019668609
+<End>Ind
+<Start>Ind
+0.16728133,1043024844			rFitness
+0.3741376,1052741367			rAdjFit
+1015175321				rNrmFit
+8					nCard
+42					nSet
+2015440896
+<End>Ind
+<Start>Ind
+0.16932121,1043161738			rFitness
+0.37130386,1052646282			rAdjFit
+1015110621				rNrmFit
+8					nCard
+42					nSet
+2028011520
+<End>Ind
+<Start>Ind
+0.16939129,1043166441			rFitness
+0.37120724,1052643040			rAdjFit
+1015108415				rNrmFit
+8					nCard
+42					nSet
+2015428737
+<End>Ind
+<Start>Ind
+0.16043548,1042565427			rFitness
+0.38397226,1053071363			rAdjFit
+1015399867				rNrmFit
+9					nCard
+41					nSet
+1881223808
+<End>Ind
+<Start>Ind
+0.16156264,1042641069			rFitness
+0.3823176,1053015842			rAdjFit
+1015362088				rNrmFit
+9					nCard
+42					nSet
+1881215617
+<End>Ind
+<Start>Ind
+0.16187808,1042662238			rFitness
+0.3818571,1053000390			rAdjFit
+1015351574				rNrmFit
+9					nCard
+42					nSet
+2016477697
+<End>Ind
+<Start>Ind
+0.1629801,1042736193			rFitness
+0.38025692,1052946697			rAdjFit
+1015315038				rNrmFit
+9					nCard
+40					nSet
+2019656192
+<End>Ind
+<Start>Ind
+0.16828597,1043092264			rFitness
+0.3727366,1052694357			rAdjFit
+1015143333				rNrmFit
+9					nCard
+41					nSet
+2019627136
+<End>Ind
+<Start>Ind
+0.16969827,1043187042			rFitness
+0.37078473,1052628863			rAdjFit
+1015098768				rNrmFit
+9					nCard
+42					nSet
+2024873984
+<End>Ind
+<Start>Ind
+0.16008559,1042541946			rFitness
+0.38448882,1053088696			rAdjFit
+1015411662				rNrmFit
+10					nCard
+40					nSet
+1881256576
+<End>Ind
+<Start>Ind
+0.16015504,1042546607			rFitness
+0.38438618,1053085252			rAdjFit
+1015409318				rNrmFit
+10					nCard
+40					nSet
+1881254528
+<End>Ind
+<Start>Ind
+0.16265441,1042714337			rFitness
+0.38072842,1052962518			rAdjFit
+1015325804				rNrmFit
+10					nCard
+42					nSet
+2028015872
+<End>Ind
+<Start>Ind
+0.16418405,1042816989			rFitness
+0.37852398,1052888549			rAdjFit
+1015275471				rNrmFit
+10					nCard
+42					nSet
+2023821576
+<End>Ind
+<Start>Ind
+0.16663843,1042981700			rFitness
+0.3750397,1052771636			rAdjFit
+1015195918				rNrmFit
+10					nCard
+42					nSet
+2032250880
+<End>Ind
+<Start>Ind
+0.16666071,1042983195			rFitness
+0.37500837,1052770585			rAdjFit
+1015195203				rNrmFit
+10					nCard
+42					nSet
+2019627137
+<End>Ind
+<Start>Ind
+0.16715544,1043016396			rFitness
+0.37431392,1052747283			rAdjFit
+1015179347				rNrmFit
+10					nCard
+42					nSet
+2024873985
+<End>Ind
+<Start>Ind
+0.16802685,1043074875			rFitness
+0.37309694,1052706448			rAdjFit
+1015151561				rNrmFit
+10					nCard
+42					nSet
+2020802561
+<End>Ind
+<Start>Ind
+0.16811001,1043080456			rFitness
+0.37298122,1052702565			rAdjFit
+1015148918				rNrmFit
+10					nCard
+42					nSet
+2023850241
+<End>Ind
+<Start>Ind
+0.1636828,1042783351			rFitness
+0.37924355,1052912694			rAdjFit
+1015291901				rNrmFit
+11					nCard
+41					nSet
+2090934529
+<End>Ind
+<Start>Ind
+0.16474311,1042854507			rFitness
+0.37772465,1052861728			rAdjFit
+1015257221				rNrmFit
+11					nCard
+42					nSet
+2028019969
+<End>Ind
+<Start>Ind
+0.16551639,1042906401			rFitness
+0.37662458,1052824816			rAdjFit
+1015232104				rNrmFit
+11					nCard
+40					nSet
+1885450384
+<End>Ind
+<Start>Ind
+0.16707921,1043011280			rFitness
+0.37442076,1052750868			rAdjFit
+1015181786				rNrmFit
+11					nCard
+41					nSet
+2020679809
+<End>Ind
+<Start>Ind
+0.16153821,1042639430			rFitness
+0.3823533,1053017040			rAdjFit
+1015362903				rNrmFit
+12					nCard
+42					nSet
+2024354049
+<End>Ind
+<Start>Ind
+0.16367789,1042783021			rFitness
+0.37925062,1052912931			rAdjFit
+1015292062				rNrmFit
+12					nCard
+42					nSet
+2024906881
+<End>Ind
+<Start>Ind
+0.16740137,1043032900			rFitness
+0.37396964,1052735731			rAdjFit
+1015171486				rNrmFit
+12					nCard
+42					nSet
+1919004801
+<End>Ind
+<Start>Ind
+0.17425328,1043492724			rFitness
+0.36462644,1052422225			rAdjFit
+1014894754				rNrmFit
+7					nCard
+42					nSet
+2016477184
+<End>Ind
+<Start>Ind
+0.17139693,1043301037			rFitness
+0.36846402,1052550993			rAdjFit
+1015045781				rNrmFit
+8					nCard
+42					nSet
+2023849984
+<End>Ind
+<Start>Ind
+0.1736109,1043449614			rFitness
+0.3654825,1052450950			rAdjFit
+1014933846				rNrmFit
+8					nCard
+42					nSet
+2019655680
+<End>Ind
+<Start>Ind
+0.17011744,1043215172			rFitness
+0.37020934,1052609556			rAdjFit
+1015085630				rNrmFit
+9					nCard
+42					nSet
+2015437057
+<End>Ind
+<Start>Ind
+0.17043339,1043236375			rFitness
+0.36977682,1052595043			rAdjFit
+1015075755				rNrmFit
+9					nCard
+42					nSet
+1885409412
+<End>Ind
+<Start>Ind
+0.1728497,1043398531			rFitness
+0.36650214,1052485163			rAdjFit
+1014980406				rNrmFit
+9					nCard
+42					nSet
+1893834752
+<End>Ind
+<Start>Ind
+0.17304288,1043411495			rFitness
+0.36624286,1052476463			rAdjFit
+1014968566				rNrmFit
+9					nCard
+42					nSet
+2036432896
+<End>Ind
+<Start>Ind
+0.18787998,1044407196			rFitness
+0.347367,1051843094			rAdjFit
+1014106614				rNrmFit
+12					nCard
+42					nSet
+1491185808
+<End>Ind
+<Start>Ind
+0.19929315,1045173121			rFitness
+0.33412057,1051398618			rAdjFit
+1013501726				rNrmFit
+8					nCard
+38					nSet
+945889536
+<End>Ind
+<Start>Ind
+0.19750637,1045053212			rFitness
+0.33612725,1051465951			rAdjFit
+1013593359				rNrmFit
+9					nCard
+42					nSet
+1482797056
+<End>Ind
+<Start>Ind
+0.19656312,1044989912			rFitness
+0.33719635,1051501824			rAdjFit
+1013642179				rNrmFit
+10					nCard
+40					nSet
+1488007296
+<End>Ind
+<End>CurIndivs
+<Start>NxtIndivs
+<Start>Ind
+0.14902973,1041800000			rFitness
+0.4015585,1053661459			rAdjFit
+1015868623				rNrmFit
+13					nCard
+38					nSet
+2024337921
+<End>Ind
+<Start>Ind
+0.1585227,1042437062			rFitness
+0.38681322,1053166690			rAdjFit
+1015529489				rNrmFit
+9					nCard
+41					nSet
+2016481792
+<End>Ind
+<Start>Ind
+0.15869778,1042448812			rFitness
+0.38655144,1053157906			rAdjFit
+1015523468				rNrmFit
+9					nCard
+41					nSet
+2019627520
+<End>Ind
+<Start>Ind
+0.15705962,1042338877			rFitness
+0.3890148,1053240563			rAdjFit
+1015580124				rNrmFit
+10					nCard
+41					nSet
+2016489984
+<End>Ind
+<Start>Ind
+0.15779166,1042388003			rFitness
+0.38791016,1053203497			rAdjFit
+1015554718				rNrmFit
+10					nCard
+41					nSet
+2015433473
+<End>Ind
+<Start>Ind
+0.1582379,1042417950			rFitness
+0.3872398,1053181004			rAdjFit
+1015539300				rNrmFit
+10					nCard
+41					nSet
+2020676096
+<End>Ind
+<Start>Ind
+0.15859282,1042441768			rFitness
+0.38670835,1053163171			rAdjFit
+1015527077				rNrmFit
+10					nCard
+41					nSet
+2023817768
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015681758				rNrmFit
+11					nCard
+40					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015681758				rNrmFit
+11					nCard
+39					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.1541724,1042145119			rFitness
+0.39343375,1053388838			rAdjFit
+1015681758				rNrmFit
+11					nCard
+39					nSet
+2029064704
+<End>Ind
+<Start>Ind
+0.1570552,1042338580			rFitness
+0.38902152,1053240788			rAdjFit
+1015580279				rNrmFit
+11					nCard
+41					nSet
+2016490240
+<End>Ind
+<Start>Ind
+0.15865706,1042446079			rFitness
+0.3866123,1053159948			rAdjFit
+1015524868				rNrmFit
+11					nCard
+41					nSet
+2029093376
+<End>Ind
+<Start>Ind
+0.15358809,1042105906			rFitness
+0.3943403,1053419257			rAdjFit
+1015702608				rNrmFit
+12					nCard
+40					nSet
+2019635715
+<End>Ind
+<Start>Ind
+0.15565029,1042244298			rFitness
+0.39115936,1053312522			rAdjFit
+1015629448				rNrmFit
+13					nCard
+41					nSet
+2020717184
+<End>Ind
+<Start>Ind
+0.15308303,1042072012			rFitness
+0.39512724,1053445662			rAdjFit
+1015720707				rNrmFit
+14					nCard
+41					nSet
+2028057280
+<End>Ind
+<Start>Ind
+0.16235198,1042694041			rFitness
+0.38116732,1052977245			rAdjFit
+1015399636				rNrmFit
+8					nCard
+41					nSet
+2015429121
+<End>Ind
+<Start>Ind
+0.16391939,1042799228			rFitness
+0.37890357,1052901286			rAdjFit
+1015347570				rNrmFit
+8					nCard
+41					nSet
+2019623424
+<End>Ind
+<Start>Ind
+0.16932121,1043161738			rFitness
+0.37130386,1052646282			rAdjFit
+1015172780				rNrmFit
+8					nCard
+41					nSet
+2028011520
+<End>Ind
+<Start>Ind
+0.16043548,1042565427			rFitness
+0.38397226,1053071363			rAdjFit
+1015464148				rNrmFit
+9					nCard
+41					nSet
+1881223808
+<End>Ind
+<Start>Ind
+0.16087277,1042594773			rFitness
+0.38332862,1053049766			rAdjFit
+1015449345				rNrmFit
+9					nCard
+41					nSet
+2015437313
+<End>Ind
+<Start>Ind
+0.16119005,1042616065			rFitness
+0.382863,1053034142			rAdjFit
+1015438635				rNrmFit
+9					nCard
+41					nSet
+2015429384
+<End>Ind
+<Start>Ind
+0.16187808,1042662238			rFitness
+0.3818571,1053000390			rAdjFit
+1015415500				rNrmFit
+9					nCard
+40					nSet
+2016477697
+<End>Ind
+<Start>Ind
+0.1629801,1042736193			rFitness
+0.38025692,1052946697			rAdjFit
+1015378697				rNrmFit
+9					nCard
+40					nSet
+2019656192
+<End>Ind
+<Start>Ind
+0.16715856,1043016605			rFitness
+0.37430954,1052747136			rAdjFit
+1015241910				rNrmFit
+9					nCard
+41					nSet
+2019754112
+<End>Ind
+<Start>Ind
+0.16715856,1043016605			rFitness
+0.37430954,1052747136			rAdjFit
+1015241910				rNrmFit
+9					nCard
+40					nSet
+2019754112
+<End>Ind
+<Start>Ind
+0.16828597,1043092264			rFitness
+0.3727366,1052694357			rAdjFit
+1015205733				rNrmFit
+9					nCard
+41					nSet
+2019627136
+<End>Ind
+<Start>Ind
+0.16840754,1043100423			rFitness
+0.37256777,1052688692			rAdjFit
+1015201850				rNrmFit
+9					nCard
+40					nSet
+2033258496
+<End>Ind
+<Start>Ind
+0.16008559,1042541946			rFitness
+0.38448882,1053088696			rAdjFit
+1015476029				rNrmFit
+10					nCard
+40					nSet
+1881256576
+<End>Ind
+<Start>Ind
+0.16081327,1042590780			rFitness
+0.38341606,1053052700			rAdjFit
+1015451356				rNrmFit
+10					nCard
+41					nSet
+2023858688
+<End>Ind
+<Start>Ind
+0.1611334,1042612263			rFitness
+0.38294604,1053036929			rAdjFit
+1015440546				rNrmFit
+10					nCard
+41					nSet
+2019656193
+<End>Ind
+<Start>Ind
+0.1611334,1042612263			rFitness
+0.38294604,1053036929			rAdjFit
+1015440546				rNrmFit
+10					nCard
+40					nSet
+2019656193
+<End>Ind
+<Start>Ind
+0.16252977,1042705972			rFitness
+0.38090917,1052968583			rAdjFit
+1015393698				rNrmFit
+10					nCard
+41					nSet
+2023829505
+<End>Ind
+<Start>Ind
+0.16600859,1042939432			rFitness
+0.37592772,1052801433			rAdjFit
+1015279127				rNrmFit
+10					nCard
+40					nSet
+2090934528
+<End>Ind
+<Start>Ind
+0.16666071,1042983195			rFitness
+0.37500837,1052770585			rAdjFit
+1015257983				rNrmFit
+10					nCard
+41					nSet
+2019627137
+<End>Ind
+<Start>Ind
+0.1675481,1043042747			rFitness
+0.37376457,1052728850			rAdjFit
+1015229376				rNrmFit
+10					nCard
+41					nSet
+2087780353
+<End>Ind
+<Start>Ind
+0.16864741,1043116520			rFitness
+0.37223512,1052677530			rAdjFit
+1015194199				rNrmFit
+10					nCard
+41					nSet
+2087788544
+<End>Ind
+<Start>Ind
+0.168804,1043127029			rFitness
+0.37201828,1052670254			rAdjFit
+1015189212				rNrmFit
+10					nCard
+39					nSet
+2087813120
+<End>Ind
+<Start>Ind
+0.16891125,1043134226			rFitness
+0.3718699,1052665275			rAdjFit
+1015185799				rNrmFit
+10					nCard
+40					nSet
+2086772736
+<End>Ind
+<Start>Ind
+0.16078252,1042588716			rFitness
+0.3834613,1053054218			rAdjFit
+1015452396				rNrmFit
+11					nCard
+41					nSet
+2020704769
+<End>Ind
+<Start>Ind
+0.1608211,1042591305			rFitness
+0.38340458,1053052315			rAdjFit
+1015451092				rNrmFit
+11					nCard
+41					nSet
+2028015873
+<End>Ind
+<Start>Ind
+0.16226207,1042688007			rFitness
+0.381298,1052981630			rAdjFit
+1015402641				rNrmFit
+11					nCard
+41					nSet
+2028023936
+<End>Ind
+<Start>Ind
+0.1636828,1042783351			rFitness
+0.37924355,1052912694			rAdjFit
+1015355390				rNrmFit
+11					nCard
+41					nSet
+2090934529
+<End>Ind
+<Start>Ind
+0.16551639,1042906401			rFitness
+0.37662458,1052824816			rAdjFit
+1015295155				rNrmFit
+11					nCard
+40					nSet
+1885450384
+<End>Ind
+<Start>Ind
+0.16707921,1043011280			rFitness
+0.37442076,1052750868			rAdjFit
+1015244468				rNrmFit
+11					nCard
+41					nSet
+2020679809
+<End>Ind
+<Start>Ind
+0.16707921,1043011280			rFitness
+0.37442076,1052750868			rAdjFit
+1015244468				rNrmFit
+11					nCard
+41					nSet
+2020679809
+<End>Ind
+<Start>Ind
+0.16707921,1043011280			rFitness
+0.37442076,1052750868			rAdjFit
+1015244468				rNrmFit
+11					nCard
+39					nSet
+2020679809
+<End>Ind
+<Start>Ind
+0.16015153,1042546371			rFitness
+0.38439137,1053085426			rAdjFit
+1015473787				rNrmFit
+12					nCard
+41					nSet
+2061611008
+<End>Ind
+<Start>Ind
+0.16312893,1042746181			rFitness
+0.38004184,1052939480			rAdjFit
+1015373750				rNrmFit
+12					nCard
+41					nSet
+2053222401
+<End>Ind
+<Start>Ind
+0.16399325,1042804185			rFitness
+0.37879756,1052897729			rAdjFit
+1015345132				rNrmFit
+12					nCard
+40					nSet
+2090967297
+<End>Ind
+<Start>Ind
+0.1740306,1043477780			rFitness
+0.36492273,1052432167			rAdjFit
+1015026018				rNrmFit
+7					nCard
+41					nSet
+2015461376
+<End>Ind
+<Start>Ind
+0.17637514,1043635119			rFitness
+0.36182705,1052328293			rAdjFit
+1014888068				rNrmFit
+7					nCard
+41					nSet
+1889632256
+<End>Ind
+<Start>Ind
+0.17114313,1043284005			rFitness
+0.3688089,1052562565			rAdjFit
+1015115398				rNrmFit
+8					nCard
+41					nSet
+2019623040
+<End>Ind
+<Start>Ind
+0.17201799,1043342716			rFitness
+0.36762273,1052522764			rAdjFit
+1015088116				rNrmFit
+8					nCard
+41					nSet
+2016477185
+<End>Ind
+<Start>Ind
+0.17201799,1043342716			rFitness
+0.36762273,1052522764			rAdjFit
+1015088116				rNrmFit
+8					nCard
+40					nSet
+2016477185
+<End>Ind
+<Start>Ind
+0.1736109,1043449614			rFitness
+0.3654825,1052450950			rAdjFit
+1015038892				rNrmFit
+8					nCard
+41					nSet
+2019655680
+<End>Ind
+<Start>Ind
+0.17575884,1043593760			rFitness
+0.3626357,1052355427			rAdjFit
+1014925266				rNrmFit
+8					nCard
+41					nSet
+1886421120
+<End>Ind
+<Start>Ind
+0.17109422,1043280723			rFitness
+0.36887544,1052564798			rAdjFit
+1015116928				rNrmFit
+9					nCard
+41					nSet
+2040627200
+<End>Ind
+<Start>Ind
+0.18791944,1044409844			rFitness
+0.34731936,1051841496			rAdjFit
+1014220728				rNrmFit
+11					nCard
+39					nSet
+1482798096
+<End>Ind
+<Start>Ind
+0.19929315,1045173121			rFitness
+0.33412057,1051398618			rAdjFit
+1013613596				rNrmFit
+8					nCard
+38					nSet
+945889536
+<End>Ind
+<Start>Ind
+0.19656312,1044989912			rFitness
+0.33719635,1051501824			rAdjFit
+1013755079				rNrmFit
+10					nCard
+41					nSet
+1488007296
+<End>Ind
+<Start>Ind
+0.19656312,1044989912			rFitness
+0.33719635,1051501824			rAdjFit
+1013755079				rNrmFit
+10					nCard
+40					nSet
+1488007296
+<End>Ind
+<Start>Ind
+0.20025215,1045237478			rFitness
+0.3330534,1051362810			rAdjFit
+1013564507				rNrmFit
+12					nCard
+41					nSet
+2029007488
+<End>Ind
+<End>NxtIndivs
+<Start>BestIndiv
+<Start>Ind
+0.14902973,1041800000			rFitness
+0.5,1056964608				rAdjFit
+1015292168				rNrmFit
+13					nCard
+38					nSet
+2024337921
+<End>Ind
+<End>BestIndiv
+<Start>CompIndiv
+<Start>Ind
+1.,1065353216				rFitness
+0.5,1056964608				rAdjFit
+1015292168				rNrmFit
+1					nCard
+0					nSet
+2147484672
+<End>Ind
+<End>CompIndiv
+<End>VSIndividuals
+<Start>VSGroupMap
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+<End>VSGroupMap
+<Start>VSGroupArray
+1					nNumGroups
+<Start>VSGroup
+0					nGroupID
+2					nMinCard
+30					nMaxCard
+<End>VSGroup
+<End>VSGroupArray
+<Start>CVSState
+0					nCVSCurrStep
+0					nCVSCurrIter
+<Start>CVSMask
+4294967295
+<End>CVSMask
+<Start>CVSAccum
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+<End>CVSAccum
+<End>CVSState
+<End>VarSelection
+<End>PredVS
+<Start>PredVSNet
+<Start>Net
+1346908213				lMagic
+15					ucChange
+<Start>NetParams
+1					nLogLevel
+2					nIn
+3					nHid
+1					nOut
+1					nLearn
+2					ucaHidTran[0]
+6					ucaHidTran[1]
+6					ucaHidTran[2]
+6					ucaHidTran[3]
+6					ucaHidTran[4]
+6					ucaHidTran[5]
+0					ucaHidTran[6]
+1					ucaHidTran[7]
+0.,0					rHidFPOff
+1					ucOutTran
+1					ucOutTranNom
+1					ucNetLinAlt
+0.2,1045220557				rOutFPOff
+0.,0					nErrF
+2.,1073741824				raNSE[0]
+1.,1065353216				raNSE[1]
+0.5,1056964608				raNSE[2]
+3					nTestEval
+2					nMPEDegree
+0.2,1045220557				rEvalErrTol
+20.,1101004800				rEvalPrcntil
+512					nEvalChunk
+2.,1073741824				rHidNseFact
+1.,1065353216				rOutNseFact
+40.,1109393408				rWtLimit
+0.5,1056964608				rWtReduce
+0					nNoiseTune
+0					nNTDone
+5					nOutPassMin
+5					nHidPassMin
+2.,1073741824				rOutPassFct
+4.,1082130432				rHidPassFct
+3					nStbCntMx1
+2					nStbCntMx2
+5					nStbCntMx3
+0.999949991703033,536870912,1072693143	dStbThr1
+0.999949991703033,536870912,1072693143	dStbThr2
+0.999949991703033,536870912,1072693143	dStbThr3
+2					nNodePat
+1.e-003,981668463			rNodeTol
+1					nNetMin
+1					nNetMax
+1					nNetPat
+1.e-003,981668463			rNetTol
+1					nCandMin
+1					nCandMax
+2					nCandPat
+1.e-003,981668463			rCandTol
+1					nCandOut
+1					nCandIterF
+0					nSaveLastF
+3					nVMin
+3					nVMax
+0					nRandType
+1.,1065353216				rRandMult
+1					ucWtLimit
+0					ucStchGrad
+1					ucWtDecay
+0					ucFreqComp
+1					ucDirect
+1					ucCascaded
+0					lMaxTrnRecs
+<Start>NetKF
+0.,0					rPNAlpha
+0.95,1064514355				rPNDecay
+0.,0					rWtMean
+1000.,1148846080			rMaxVar
+<End>NetKF
+<Start>NetAG
+50					nMaxLSIters
+1.e-005,925353388			rLSTolerance
+10.,1092616192				rCndAlpha
+10.,1092616192				rOutAlpha
+5.e-004,973279855			rCndWtDec0
+1.e-004,953267991			rOutWtDec0
+100.,1120403456				rCndLCoef
+1.e-002,1008981770			rOutLCoef
+0.1,1036831949				rStochGrad
+<End>NetAG
+<End>NetParams
+<Start>NetState
+0					nStabCnt
+0					nNodePatCnt
+1000000,1232348160			rNodeTolRef
+0					nNetPatCnt
+1000000,1232348160			rNetTolRef
+0					nNetCur
+1					nVCur
+0					nCurCX
+1000000,1232348160			rCandTolRef
+0					nCandPatCnt
+0					nCandBestDim
+1000000,1232348160			rCandBestEval
+1					lFlag
+0					nLrnMode
+1					nFastMath
+1					nLinPost
+0					nMode
+0					nEst
+1000000,1232348160			rBest
+0.,0					rPubEval
+0.70710677,1060439283			rWtInit
+0					lNTrnRecs
+0.,0					rCndWtDecay
+0.,0					rOutWtDecay
+0.,0					rCndWtRegulrz
+0.,0					rOutWtRegulrz
+0.,0					rWtCompEval
+0.,0					rCndLCoefNrm
+0.,0					rOutLCoefNrm
+<End>NetState
+0					Architecture
+<End>Net
+<End>PredVSNet
+<Start>CommonEnd
+1090519040				lXLStatus
+{A2:Q2{					caXLInEx
+{A3:Q3{					caXLInEx2
+{R2{					caXLOutEx
+{A2:Q408{				caXLInRange
+{A1{					caXLLblRange
+{{					caXLTTSRange
+{{					caXLTTWrite
+1					ucXLTTSymbolic
+{{					caXLVSWrTable
+{{					caXLVSWrFlags
+{{					caXLWrWeights
+{{					caXLRunIn
+{{					caXLRunOut
+0					ucXLROptNetIn
+0					ucXLROptNetOut
+1					ucXLROptRWOut
+0					ucXLROptNetTgt
+0					ucXLROptInvOnly
+1					ucCBRUseWhat[0]
+0					ucCBRUseWhat[1]
+0					ucCBRUseWhat[2]
+0					ucCBRUseWhat[3]
+0					ucCBRUseWhat[4]
+0					ucCBRUseWhat[5]
+0					ucCBRUseWhat[6]
+{{					ucCBRManRange
+{{					ucCBRInRange
+{{					ucCBROutRange
+{{					ucCBRFName
+0					ucXLROptSensIndiv
+0					ucXLROptSensStats
+0					ucXLROptSensRWU
+0					ucXLROptSensIndNet
+1					ucXLROptSensDepNet
+{{					caXLROptSensInRng
+{{					caXLROptSensOutRng
+0					ucXLROptExplDecis
+0					ucXLROptExplCert
+0					ucXLROptExplCont
+0					ucXLROptExplMInfl
+{{					ucXLROptExplInRng
+{{					ucXLROptExplOutRng
+{{					caXLTestMan
+{A415{					caXLTestRes
+67					ucXLFCSrcCode
+{FC{					caXLFCRootName
+0					ucXLFCInTypes
+0					ucXLFCOutTypes
+0					ucXLFCCBR
+0					ucXLFCSens
+0					ucXLFCExplain
+0					nXLVSSetMinX
+4					nXLVSSetMaxX
+0					nXLSetVSSet
+2					nXLDWLvl
+0					nXLTTMode
+3					nXLNetLvl
+3					nXLVSLvl
+1					nXLNseLvl
+0					nXLPrbType
+0					nXLVSNGens
+0					nXLNodesTrain
+0					nXLBldLvl
+0					nSkpMisRec
+0					nDefBld
+<End>CommonEnd
+<Start>ClusterModel
+<Start>SOM				Copyright 2001-2003 NeuralWare. All rights reserved.
+1.1					SOM File Version
+<Start>Parameters
+0					random number seed
+0					user update interval
+0					user update count
+0					training records
+30					maximum epochs
+0.6,1058642330				initial learning rate coefficient
+0.,0					final learning rate coefficient
+1.,1065353216				initial frequency estimation coefficient
+0.,0					final frequency estimation coefficient
+1.,1065353216				initial conscience coefficient
+0.,0					final conscience coefficient
+5.,1084227584				initial neighborhood radius
+0.,0					final neighborhood radius
+2					neighborhood type
+0.,0,0					neighborhood sharpness
+-1.,-1082130432				minimum initialization weight
+1.,1065353216				maximum initialization weight
+1					compute convergence flag
+0.1,1036831949				convergence threshold
+1					accelerate convergence decay flag
+1.5,0,1073217536			acceleration coefficient
+0					batch som method flag
+<End>Parameters
+<Start>Architecture
+0					input vector length
+2					Kohonen dimensions
+8					elements in dimension 1
+5					elements in dimension 2
+0					wrapped dimensions
+<End>Architecture
+<Start>State
+1					flags
+<End>State
+<End>SOM
+<End>ClusterModel

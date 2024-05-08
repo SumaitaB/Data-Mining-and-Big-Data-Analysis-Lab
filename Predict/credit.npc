@@ -1,0 +1,12 @@
+log      credit.log
+
+new
+data     credit.txt,,,all
+defaults pred,moderate,moderate,comp,comp
+fields   17,0,1,0
+saveas   credit.npr
+build    all,force
+saveas   credit.npr
+run      credit.txt,credit.out,stndout|hasheader
+
+! close 1 ! leave model open for user review
